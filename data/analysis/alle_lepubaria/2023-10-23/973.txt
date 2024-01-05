@@ -1,0 +1,9 @@
+ANALYSIS:
+OPTION-0: "Wait! We can’t hurt those little ones,” wails your aide, Ariel Coulson, while clutching her face in horror. 
+
+Justification: The constitution and policy goals of Alle Lepubaria place a high value on human life and civil rights, especially the rights of children who shouldn't be held accountable for the actions of their parents. Even though Hugo vonBismarck is a confirmed terrorist, the decision to launch an attack that would also harm his innocent children is inconsistent with our principles. This creates a modus ponens, as it is our goal to uphold the civil rights and lives of all individuals, therefore, we must not carry out actions that would harm innocents, especially children.
+
+Rejected Option:
+OPTION-1: From the corner of the monitor, you can see a terrorist soldier spot the drone and begin assembling a surface-to-air-missile launcher. The operator turns around in his chair with a look of urgency. “Boss, we're about to lose the drone. It's now or never! Authorise me to take the shot. If we let him go, it might take years for us to find him again - and who knows how many more children he might kill in the meantime? The inevitable loss of the little ones is regrettable, but we need to take him out now!”
+
+Justification for rejection: While this option seems to prioritize the safety and security of many by eliminating a key threat, it disregards the value of innocent life, which is a fundamental principle in Alle Lepubaria's constitution and goals. The elimination of an enemy at the expense of innocent lives strays from our goal to uphold civil rights and the lives of individuals. Following a modus ponens line of reasoning, as it is our goal to protect the innocent, we must not take actions that knowingly put them at high risk.

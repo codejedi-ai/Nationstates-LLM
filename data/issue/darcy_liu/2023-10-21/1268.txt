@@ -1,0 +1,9 @@
+ISSUE:
+1268
+TEXT:
+Self-proclaimed hippie Dick Woolf made headlines last week by travelling on a crowded train completely nude, having not showered for many months.
+OPTIONS:
+OPTION-0: “We should mandate standards of hygiene and cleanliness in order to ride on mass transit vehicles,” complains Cawdor Macbeth, your Minister of Transport, washing his hands at your personal sink. “Think of how many Darcys were forced to share a carriage with him, or, heaven forbid, had to occupy the sweat-drenched seat he left behind him!” 
+OPTION-1: “The smells, the sights, the taste of sweaty air on your tongue,” moans commuter Juniper Duterte, whose wheelchair puts her face at the crotch height of most commuters. “I have nightmares — my doctor says I’ve got PTSD! Please, Isles of Codist GPTesta, just put a limit on how much nudity we allow in society; I just can’t take it anymore.”
+OPTION-2: “You’re like, totally cramping my vibe. There ain’t nothing wrong with letting it all hang out!” proclaims Woolf, waltzing into the room and heaving his naked mass into an antique chair. “I’ve been re-attuning myself to nature, and running water washes away the positive energies, you know? That’s not cool. Maybe you just ought to have more trains, so it doesn’t get so cosy.”
+

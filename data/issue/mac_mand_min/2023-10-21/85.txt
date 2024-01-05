@@ -1,0 +1,9 @@
+ISSUE:
+85
+TEXT:
+A surprise raid conducted on ISPs over the last week in Mac Mand Min shows that more than 30% of all Internet data transfer in Mac Mand Min at one time or another is used by illegal file-shares to illegally distribute files, most notably songs.
+OPTIONS:
+OPTION-0: “What we need to do is hack their computers and format their hard drives,” says Sarah Weatherhead, recording industry representative. “People need to be taught to not mess with the law. This is theft, pure and simple. And they’re not only halving our revenue to tune of billions of Dar Papers, but you are also stealing a few hundredths of a Dar Paper from the artist for every song they steal. THINK OF THE STARVING ARTISTS!”
+OPTION-1: “Yo, dude, like, don’t be hatin’ man,” says teenager Amina deCastro. “We’re like, going to change the whole structure of our society. Everything should be like, publicly available to, like, everybody, dude. Copyrights are so, like, uncool man and we need to get rid of them. That’d be totally radical, and cool as well.”
+OPTION-2: “Yo, dang, blizzity blang, yo, this ain’t, right, yo,” says Elmo Kumar, famous rapper with three platinum albums. “Dang, yo, we dang need to protect my dang music files, yo, so yo’ gotta be registered an’ online to listen, yo. It’s the only way to stop this, dang, yo.”
+

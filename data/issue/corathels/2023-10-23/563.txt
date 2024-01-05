@@ -1,0 +1,10 @@
+ISSUE:
+563
+TEXT:
+An outbreak of an antibiotic-resistant super-bacterium has killed five people in Corathels City, and epidemiologists are linking the emergence of this strain to contaminated chicken meat from poultry given regular doses of antibiotics. Health officials, farmers and consumers are searching for solutions to prevent another outbreak.
+OPTIONS:
+OPTION-0: “There’s a simple solution,” says Waylon McCloud, head of the Corathels Public Health Board. “Ban antibiotic use on animals. Antibiotic overuse promotes drug-resistant bacteria, and the chemicals involved are also tainting the food chain. If animals get sick, cull them. Super-bugs will be a thing of the past!”
+OPTION-1: “The government must not do that!” shouts Malon Springsteen, Head Poultry Butcher at ChickensBoxed Inc. “We will lose revenue and efficiency! We raise thousands of birds here and antibiotics allow us more meat per unit, more units per square metre and more units per dollar. You should allow us to use whatever drugs we need to keep the farming industry strong!”
+OPTION-2: “Does anyone forget to mention why chickens get sick?” asks young farmer Colt Broadside, as he pets Mrs. Tweedy, the favourite of his five chickens. “It’s because they are cooped up in cages, unable to move, to develop their bodies, and exercise. The solution is for free-range farming to be mandatory. Meat will then be fresher, healthier and better tasting. We’ll need more room, of course, so perhaps the government could donate us some city parks to convert?”
+OPTION-3: “Wait a minute! Has anybody thought about the little guy here? By which I mean, the poor, destitute pharmaceuticals industry?” questions Big Pharma executive Sayid Harris, as he steps off his private jet. “If you block out sales, our profits will fall by several percent, and jobs will be lost. Perhaps instead subsidise investment into the NEXT generation of antibiotics? That way farmers can use antibiotics all day long, and we’ll likely still have new tools to treat sick patients with.”
+

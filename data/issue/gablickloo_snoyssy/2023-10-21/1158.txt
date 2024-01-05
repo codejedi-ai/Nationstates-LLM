@@ -1,0 +1,9 @@
+ISSUE:
+1158
+TEXT:
+Two passengers were both accused of going on drunken rampages on two different flights. When they each faced the same judge on the same day, one was sentenced to two years in prison while the other was issued a small fine and a stern warning. The only apparent difference between the two is that the first was a man, and the second was a woman.
+OPTIONS:
+OPTION-0: “This is sky-high sexism,” complains Sven Rabin, brother to the convicted man. “Both people here pleaded guilty to and committed the same crime, but were treated totally differently! The system is discriminatory against men, and must be changed! Sentences should be based on the crime, not the perpetrator’s gender!”
+OPTION-1: “This man is being ludicrous,” counters Judge Kathryn Wright. “When sentencing, we look at a wide range of factors. These include assessment of statistical likelihood of repeat offence, and the aggression of the individual. The law is not black and white, and I judged that this 120-kilo skinhead male was more likely to reoffend than the mild-mannered and charming young lady in the sensible suit. Judicial discretion is essential in sentencing, and must be respected.”
+OPTION-2: “Why dost thou think it so ill if a maiden receiveth a more lenient sentence than a knave?” questions armourclad medieval re-enactor Aziz Dvořák, as he hands out pamphlets about the benefits of chivalry. “Menfolk are more capable of tolerating prison than the weaker flowers of femininity, and our poor ladyfolk art needed back at the hearth to tend to the children, and to their womanly duties! Spare the weaker sex the indignity of gaol, I beseech thee!”
+

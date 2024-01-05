@@ -1,0 +1,10 @@
+ISSUE:
+1454
+TEXT:
+As a symbol of historic cultural ties, the nation of Brancaland has gifted Chavoldosperbien a dozen Brancalandian Spiked Aspen trees. These were ceremonially planted in the famed Jellostain National Park. Unfortunately, it’s now been discovered that the trees are host to a parasitic fungus endemic to Brancaland, which is now spreading and ravaging the local woodland.
+OPTIONS:
+OPTION-0: “Let’s not panic!” says one of your diplomats, panicking. “Brancaland had good intentions, but we need to contain the spread before the entire nation is infected. Luckily the fungal infestation is only in this part of the park, so let’s enclose the section with the trees with a glass bio-dome, and allow access only to a select few. We can import more Brancalandian flora and dedicate the arboretum to our nations’ enduring friendship.”
+OPTION-1: “You don’t know what this fungus can do,” flatly states Forestry Commission Warrant Officer Elaine Wipley, with the look of a shell-shocked veteran. “If one of those spores gets out there, that’s it! Taking off and nuking the site from orbit is the only way to be sure. No? Well, at the very least, you need to send the army in with flamethrowers, to burn everything in a three-mile radius.”
+OPTION-2: “It’s too late for the park,” whispers General Cody ‘Iron Eyes’ de Corti, shedding a single tear as he surveys the devastation. “They destroyed our park; we can destroy theirs too. You should allow us to covertly release the Chavoldosperbienian Destroying Angel Fungi over the Brancalandian pine forests. Let the invaders feel our pain.”
+OPTION-3: “Fungus is Good, repeat with me, Fungus is Good,” intones eccentric mycologist Innsmouth Yugov offering you a strange-smelling bowl of mushroom stew. “Let the blessed fungus spread freely. In fact, deliberately spread it to every forest in Chavoldosperbien. Do it or there will be truffle, I mean trouble. The blessed mycelium will give strength to our nation as it infiltrates our soil. You understand? Yes. Me go, now. Me go.” He hands you a mysterious book, then chants in an indecipherable language.
+

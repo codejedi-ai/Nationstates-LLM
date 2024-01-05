@@ -1,0 +1,9 @@
+ISSUE:
+1127
+TEXT:
+In the past few months, there have been a series of high-profile car accidents involving elderly citizens.
+OPTIONS:
+OPTION-0: “I’ve had it with the elderly!” roars angry motorist Xerxes Watts, whose car recently lost a wing mirror to a near-blind senior. “It’s high time the government did something about this! Make all the elderly citizens retake their driving tests every five years from age sixty, so that granddad doesn’t go killing someone his old eyes can’t even see!”
+OPTION-1: “Now you listen here, dearie,” interjects your aged grandmother, who has complained her way past your receptionists and guards. “I didn’t work my stockings off when I was younger just so I could have my rights taken away! Your grandfather fought in a war back in... in... or maybe he didn’t, I can’t remember. Anyway, you’ve got to show some respect for my generation! Do it for Granny, won’t you?”
+OPTION-2: “Oi, let me talk!” yells Dan Jerrus, a youth who recently drove his hatchback into the back of a sharply-braking nonagenarian’s camper van. “These old crones shouldn’t be allowed on the road, full stop. Just look what they did to my car! You should ban anyone over the age of fifty from driving. Leave the roads to responsible younger people.”
+

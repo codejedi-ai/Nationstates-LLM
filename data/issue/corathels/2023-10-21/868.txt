@@ -1,0 +1,9 @@
+ISSUE:
+868
+TEXT:
+An unexpected letter sent by your estranged uncle was found on your desk this morning. In it, he details what he has been up to for the past several years. It abruptly concludes with him being arrested and imprisoned in Brancaland for a slew of criminal charges. These included selling diluted maple syrup, illegally hunting prized Brancalandian Geese for sport, and operating a business without a license.
+OPTIONS:
+OPTION-0: “I’m in a sticky situation,” writes your uncle. “I’ve been assigned to share a cell with a moonshiner named Cletus. His buck teeth are not pleasant to look at nor are his armpits pleasant to smell. I would be most obliged if you could use some of your diplomatic wrangling, such as threatening Brancaland with tariffs, to arrange for my release. Perhaps you could wire some money to my account to help me get back on my feet. After all, we’re family, and as the Brancalandian saying goes, ‘blood is thicker than maple syrup’.”
+OPTION-1: The Brancalandian ambassador huffs into your office. “You must understand what a heinous crime your uncle committed. Our maple products are our national heritage and your uncle has completely disrespected that. He may be your family, but you must allow our criminal justice system to punish him as it sees fit. If you’d like, we can even give you a tour of the prison facilities to show that he isn’t being mistreated.”
+OPTION-2: “This kind of sounds like one of those Tasmanian Prince scams to me,” muses your secretary. “Actually, that gives me an idea. Deny that he’s your uncle and write him off as a con artist trying to get out of prison. If we are to believe that ambassador, he won’t be in much actual danger there. Sure, he won’t be happy staying locked up, and neither will other family members now that I think about it. Then again, he broke Brancalandian law and I don’t want to risk losing my supply of Brancalandian goose down coats over this!”
+

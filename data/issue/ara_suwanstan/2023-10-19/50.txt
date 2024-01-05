@@ -1,0 +1,6 @@
+TEXT:An organized crowd of leather-clad individuals, some of whom are on leashes, are protesting against discrimination for those who share their interests. 
+OPTIONS: 
+OPTION-1: “We happen to express our love differently, with different hobbies and activities,” explains BDSM enthusiast Moxie Swift, while wearing needle-sharp spiked heels and holding a whip. “Shops exist to cater to the needs of ‘normal’ people, but do you have ANY idea how hard it is to get a quality whip? A little support for our hobbies would be appreciated!”
+OPTION-1: “Yeah,” exclaims Tristan Carr, another enthusiast, wearing nothing but a collar, “and like other couples, we want the right to display our affection in public. If Master wants to take me walkies in public, he should be able to.”
+OPTION-2: Bonifacius Hopkins dissents wholeheartedly. “This is not about showing affection—this is about moral decency. Think of the children, for God’s sake! Think of the children! We must criminalize and eliminate this perversion to keep them safe. Which of course means a special task force to track down and capture these cretins!”
+

@@ -1,0 +1,9 @@
+ISSUE:
+1589
+TEXT:
+The Merovingian President is en route to Darusan for a state visit. However, the man is extremely tactile, always keen to over-extend handshakes, to hug at the slightest provocation, and even to cordially rest his left hand on inner thighs during conversations. 
+OPTIONS:
+OPTION-0: “We need some sort of strategy to keep a diplomatic distance here,” whispers your Minister of Safe Spaces, leaning in conspiratorially to just under seven inches from your nose. “We can position your chairs on opposite sides of a large table, and ensure that at all the events you attend there will be always be an aide or three between you. That way he can’t be tempted to get too touchy.”
+OPTION-1: “Zut alors, this is not the president being trop romantique!” points out Pierre, a Merovingian diplomat. “He is not asking you ‘voulez-vous coucher avec moi’! Non! This is just the Merovingian way of being polite. You should just embrace him hard, take his buf bourguignon in hand, and plant a kiss on each of his cheeks. This will show you are a politicien du monde, hein?” 
+OPTION-2: “We should neither be manoeuvring to avoid his advances, nor be forced to be inappropriately manhandled,” snaps dog trainer Milo Cesar, grabbing Pierre by the collar, and forcing him away from you. “Instead, the next time the Merovingian President touches you, just hold one hand up, and sharply scold him with a loud ‘No! Bad man! Sit!’ He, and all the other grab-happy gropers, need to be told that it is never acceptable to touch anybody without permission. Indeed, there must be a law against it!”
+

@@ -1,0 +1,10 @@
+ISSUE:
+538
+TEXT:
+Tragedy struck last Friday when police had to be called to a pop concert when the queue for the women’s washroom devolved first into squabbles, then a violent free-for-all, as desperate female fans fought to get to the front.
+OPTIONS:
+OPTION-0:  “Women being forced to wait is... is... just another form of sexism,” complains Fanny Peasmore, a cross-legged concert-goer, with strained emphasis. “By forcing businesses and old stadiums to accommodate more more ah, people in women’s washrooms, we can finally realise a fairer, more equal experience at the wash- SPEED IT UP, GRANS, SOME OF US HAVE GOT TO GO!”
+OPTION-1: “What a load of sh-” starts Sean Price, a controversial heavy metal singer, before being interrupted by the concert-goer elbowing her way past him with a desperate look on her face. “Look, if they don’t like having to wait for the loo they can always bring their ‘business’ elsewhere. It’s a free market. Nobody is forcing them folks to go there. One washroom for each gender. Fair is fair if fair is fair, am I right?”
+OPTION-2: “One washroom is fine, sweeties, but why all this fuss over artificial categories?” asks Mx. Wiseau, looking great in a fetching tuxedo and miniskirt combo. “Just take off the boy and girl signs on the doors, and be gender fluid about where you pass your fluids. Where would you be without me, darling?”
+OPTION-3: “Oh wow, I really feel for these girls!” says Amir, one of the five singers from boy band ‘The Unattended Gents’, whose pop concert was so tumultuous. “It’s our fault, for sure. I’ve written a song all about how sorry we are, and the gentle massage I’m gonna give those girls to make up for it. But hey, I know how we can fix this. Let’s have every visit to the little lady’s room cost 1 franc, then those queues will be a thing of the past. We can all be happy together, forever.”
+

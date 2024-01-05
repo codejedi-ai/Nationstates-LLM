@@ -1,0 +1,9 @@
+ISSUE:
+1134
+TEXT:
+After Brancaland announced an increase in tariffs on all goods imported from abroad, several other countries retaliated by doing the same thing to Brancalandian goods. They now expect a response from Corathels.
+OPTIONS:
+OPTION-0: “Let’s just do what everyone else is doing and increase tariffs on Brancalandian imports,” suggests your Trade Minister, Zola Berenstain. “The Brancs profit greatly from exporting iron, copper, and other raw materials to us. Once we cut into their margins, I’m sure they’ll see sense and reconsider their own tariff increase.”
+OPTION-1: “If we raise tariffs as well, that will surely increase the cost of goods for consumers!” panics Daisy Grossweiner, your Economic Advisor. “We need to work with the Brancalandians, not against them. So we should actually lower tariffs in an attempt to get them to buy more from us; once they see that we’re giving them a fair deal, they might even lower their tariffs for us. They get to trade more goods, we get to trade more goods, and the average Corathelsian reaps the savings. Everyone wins!”
+OPTION-2: “Why pay the extra tariffs?” asks General Jabulani Nagasawa. “Hell, why pay for <i>anything</i> when we can just threaten Brancaland with a couple of gunboats in their harbors? The rest of the international community may not like it, but we can cut them a deal on maple syrup or something.”
+

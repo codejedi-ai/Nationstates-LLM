@@ -1,0 +1,10 @@
+ISSUE:
+1322
+TEXT:
+Last month, a prestigious Darcyusian retirement home had a novel idea: combining aged care and kindergarten. The idea was well-received by geriatricians and geriatrics alike, and now participants are proposing the model be adopted across the care sector.
+OPTIONS:
+OPTION-0: “It wasn’t just a frivolous idea,” states trainee care home manager Tenzin Christmas. “We attempted a trial run and monitored the subjects closely throughout. Every one of the elderly participants showed significant improvement in physical ability, mental health, and overall well-being. And the children learned valuable life lessons! Please New - Darcy, implement this model of care across Darcyus.”
+OPTION-1: “Sure, the trials showed promise...” begins Beau Janssen, your Minister for Science. “But only one ‘class’ of children took part, and a mere 20 seniors! How in Violet’s name that’s considered a scientific trial is beyond me. Expensive policy proposals need rigorous trials and extensive research before being implemented wide-scale. If the effects are as beneficial as its proponents claim, surely it bears further study?”
+OPTION-2: “You have got to be kidding!” replies kindergarten teacher Harold Weissenegger. “If you think my precious little kiddos are better off in a musty old folks’ home, you’re insane. No-one knows anything about what old Glynis or Ernest are like with children, and these kids won’t be the experiment to find out! Youngsters belong in the classroom with structured, disciplined teaching — old people’s homes should be for old people only.”
+OPTION-3: “Yesterday, I had to change four patients in the space of half an hour,” interjects Francine Putin, an overworked carer from Darakasha Lakes. “And you want me to supervise children too? Nope. If you’re going to put youngsters in retirement homes, they’ll need to pull their weight. They can do all the dirty work, like changing soiled bed linen, while us qualified carers do the proper stuff! Maybe then I can finally catch a break.” She breathes an audible sigh of relief.
+

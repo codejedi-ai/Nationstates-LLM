@@ -1,0 +1,32 @@
+        '''
+        #70 Purge the Infidels!
+        3. religious people are committed to mental institutions for treatment
+        #196 Violent Violetists Protest Artists
+        4. people of faith are sent to twelve-step programs for 'The Cure'
+        #298 Cults: Harmless or Heretics?
+        3. believers must practice religion behind church doors lest the government smite them with a mighty fine
+        #333 No Sacrifice, No Sacrifice at All
+        0. churches across the land are hurriedly installing auto-tune for their choirs
+        1. churches across the land are hurriedly installing auto-tune for their choirs
+        5. any reference to a higher being is punished with public shaming
+        #939 A Question of Bad Faith
+        3. children who express a belief in Santa are labelled 'delusional cultists'
+        #1014 Unreasonable Doubt
+        0. you can say what you like about the genocidal murderers that rule @@NAME@@ but at least the trains run on time
+        #1180 Death Doesn't Discriminate
+        6. uprooting flowers for religious ceremonies is a felony
+        #1325 Having Faith in Communism
+        3. government has seized the opium of the people
+        
+        
+        '''
+                '''
+        print('Title:', issue['title'])
+        print('Text:', issue['text'])
+        print('OPTIONS:', issue['options'])
+        print('Author:', issue['author'])
+        print('Editor:', issue['editor'])
+        print('PIC1:', issue['pic1'])
+        print('PIC2:', issue['pic2'])
+        print('---')
+        '''

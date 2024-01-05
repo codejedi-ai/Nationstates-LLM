@@ -1,0 +1,5 @@
+TEXT:A random PTA meeting has brought the debate over school uniforms to your attention. 
+OPTIONS: 
+OPTION-1: “I think uniforms are great,” says Anupam Banks, your Minister of Education during a cabinet meeting. “They instill a sense of community within our schools which lowers crime - and the pupils can go about their daily business without having to worry about being browbeaten by their classmates for not wearing the latest trainers. Kel Tory simply cannot do without them. If the children don’t like them, then hard cheese.”
+OPTION-1: “Dude, your plan stinks,” says Elsa Glenn, leader of The Students Union. “Our clothing is part of who we are; it lets us express ourselves just by passing someone in the corridor. To say we must wear these inhibiting uniforms is an affront to our personal freedom! So back off with the uniforms, dude, students should be allowed to go to school dressed however they like. Or not dressed, if that’s their style.”
+

@@ -1,0 +1,9 @@
+ISSUE:
+488
+TEXT:
+A misunderstanding involving a 12-year-old boy, a plastic toy gun, and five heavily armed police officers has resulted in substantial public uproar. The major news networks are having a field day over-analyzing the manufacturing and selling of bright orange sci-fi inspired toy guns for children.
+OPTIONS:
+OPTION-0: “We’re raising a generation of natural born killers!” writes left-wing mommy-blogger Sandra Riker in her latest Barryblog post. “Next thing you know, they’ll want to play with real guns! When will it end? Remember, people don’t kill people, guns do! Even toy guns! We need to get anything that even remotely resembles a gun off the market!”
+OPTION-3: “Hey! That’s our jobs you’re talking about!” bemoans Sophie Zoidberg, State Director of Toy Manufacture, waving around a realistic looking replica of an AK-47. “Banning our most popular toy lines would seriously damage our industry. I’d say the best way to handle this situation is a healthy fund allocation to toy production. If we were better resourced, we could up production and flood the nation with so many toy guns that no kid would even want one! Then we make them something better,” she says, letting out a long eerie laugh.
+OPTION-4: “Y’all gotta be kiddin’ me,” grumbles local gun enthusiast Ayla Fellow before spitting into a tin can near the doorway. “Plastic toy rayguns ain’t doin’ nobody no harm. When I was li’l we played with BB guns all th’ dad-gum time! Y’all wanna ban toy guns? Shoot, we should let ‘em have real guns! Make it legal, an’ all. I bet it’d even lower crime rates! Who’d wanna rob a house knowing little Tommy has a 9 mil?”
+

@@ -1,0 +1,10 @@
+ISSUE:
+190
+TEXT:
+After a series of bloody wars between the nations of Maxtopia and North Bigtopia, fights have broken out in the streets between immigrants in Ataidoisesta who came from the warring nations.
+OPTIONS:
+OPTION-1: “Foreigners are a major cause of civil disturbances,” begins Leonardo Gaudí, whose opinions form the book ‘101 Arguments FOR Slavery’. “What we should do is make all immigrants, foreigners, and non-native Ataidoisesta folks slaves! I mean, who in Ataidoisesta wouldn’t like a minority slave group to do his bidding? Imagine! People could be bought and sold with your daily groceries!”
+OPTION-2: “I am shocked and appalled at what my colleague is suggesting!” exclaims Rosalina Mendeleev, President of the Civil Rights Union of Ataidoisesta. “Slavery? We should punish these offenders, yes, but send them to rehabilitation centres instead! As for the ethnic squabbles, programs in school should begin to stop these racist attitudes in childhood! All it will take is some slight fortification to the education budget!”
+OPTION-3: A quiet old man stands up to speak. “Now, I may be a quiet old man, but I believe that these ethnic disputes are none of the government’s business. It’s not our war anyway, so it’s not our problem. I’m sure if you leave it alone, it’ll work itself out. Just think of the money that would be saved if the police didn’t have to be paid to deal with this!”
+OPTION-4: “It’s not our war? It’s not our war?” cries (in)famous Ataidoisesta-born fascist Alani Strange. “Well maybe it’s time it became our war! Ataidoisesta should take a more active, and by ‘active’ I mean ‘hostile’, role in international politics! This ethnic squabbling will be over when the war is over, and WE can end that war and purge the impure! Long Live our Democratic Socialists! Sieg Ataidoisesta!”
+

@@ -1,0 +1,10 @@
+ISSUE:
+1266
+TEXT:
+It’s been identified that the proportion of transgender people in male prisons is around four times that of the general population.
+OPTIONS:
+OPTION-0: “The immediate problem here is the rights of trans prisoners,” asserts Alex Peña, a transgender activist, who currently identifies as ‘don’t know, don’t care’. “It simply isn’t safe for transfemme prisoners to mix with the general male population. When deciding whether to send someone to a male or female correctional institution, we should ensure that all assignments are made according to identified, not assigned, gender.”
+OPTION-1: “Look, transferring inmates that look like men into female prisons is asking for trouble,” states Stephen Watts, your Minister for Solutions, as you hand him today’s crossword puzzle and give up trying to complete it before he does. “They might be pretending, they might not. However, you have to keep men and women in different prisons. This isn’t about gender identity, this is about preventing pregnancy in prison and managing violence risk. We should build separate wings for these prisoners to ensure everyone’s safety.”
+OPTION-2: “No, these are just jailbirds pretending to be trans to try to make their time cushier,” declares Head Warden Kristian Dawson, as he flicks your light switch on and off several times. “They’re looking to receive special perks, such as separate cells and showering alone. We ought to take ‘gender-identity’ off our databases, and only record ‘biological sex’. That’s the only metric that matters in running efficient and safe prisons.”
+OPTION-3: “Four times is probably an underestimate, as many transgender people may be afraid to reveal themselves,” expresses Falala Krauss, your Minister of Equality, as she places the chairs in your office equidistant from each other, perhaps taking her duties too literally. “It’s not hard to suppose that we as a society are suffering from institutionalised transphobia, resulting in trans people being marginalised or over-convicted. We need society-wide education programs, to banish this bigotry. Then, maybe, we’ll not see so many transgender people behind bars.”
+

@@ -1,0 +1,10 @@
+ISSUE:
+297
+TEXT:
+During the last Chavoldosperbien Athletics Championship, a massive controversy arose following the revelation that double gold medalist Atlanta Johnson possesses both male and female sexual organs, despite being entirely female in external appearance.
+OPTIONS:
+OPTION-0: “How is this difficult to understand?” questions well-known sports commentator Raoul Hadfield. “There are sports and competitions just for men, and there are sports and competitions just for women; we don’t let men run in a women’s race, so what’s the difference here? And if it’s too difficult to decide whether the athlete is a man or woman, then we shouldn’t let them compete at all! Fair is fair is fair.”
+OPTION-1: “I think I see a solution to all this,” says Yui Nixon, your Minister for Solutions, whilst solving the crossword in your morning newspaper. “We should overhaul the entire sport system in Chavoldosperbien so that people compete against each other based on skill, not gender. Sure, it might be expensive but it’d be worth it if we want everyone to be happy.”
+OPTION-2: “We can’t just stop there!” protests well-known LGBTQQIA activist Cruella Uhura. “We should completely overhaul Chavoldosperbien itself to make it less hostile to those like Ms. Johnson! Schools, hospitals, workplaces - they’ll all need to be changed! There should be public toilets catered solely for the intersex too! You can’t put a price on equality!”
+OPTION-3: “You’re not going to listen to that drivel, I hope?” your bald, heavily tattooed cousin says with a raised eyebrow. “You want to actually give these people recognition? Not only would they bring shame on Chavoldosperbien in international sporting competitions, but they, and other non-conformists, are an insult to our nation. What we must do is banish those unlike me and my friends from Chavoldosperbien; they are only an impediment to the success and dominance of our race - a master race!”
+

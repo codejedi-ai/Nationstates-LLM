@@ -1,0 +1,8 @@
+ISSUE:
+973
+TEXT:
+After years of searching for the most wanted man in Alle Lepubaria, you are finally sitting in the war room, eyes glued to the images on the live video feed. It’s confirmed: the drone can see the infamous terrorist Hugo vonBismarck... playing with his children. It seems like it will be impossible to take the shot without also killing the small children.
+OPTIONS:
+OPTION-0: “Wait! We can’t hurt those little ones,” wails your aide, Ariel Coulson, while clutching her face in horror. “I know that he’s a monster who has killed and will kill again, but are we really going to stoop down to his level? Those kids are innocent of any of the atrocities their father has committed. We must hold our fire and try to find another way that doesn’t have such a high risk of collateral damage.”
+OPTION-1: From the corner of the monitor, you can see a terrorist soldier spot the drone and begin to assemble a surface-to-air-missile launch platform. The operator turns around in his chair with a look of urgency. “Boss, we’re just about to lose the drone. It’s now or never! Authorise me to take the shot. If we let him go, it might take years for us to find him again - and who knows how many more children he might kill in the meantime? The inevitable loss of the little ones will be regrettable, but we need to take him out now!”
+

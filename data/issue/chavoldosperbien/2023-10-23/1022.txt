@@ -1,0 +1,10 @@
+ISSUE:
+1022
+TEXT:
+Recently, you found yourself trapped in a broken-down elevator, waiting nearly five hours for emergency services to turn up. You were told this was because their resources were tied up dealing with (among other things) a fake bomb scare, a patient taken to hospital with a runny nose, a man with his beard trapped in a deckchair, a mum having trouble getting groceries home from the store, and a broken DVD player in need of “emergency” repairs.
+OPTIONS:
+OPTION-0: “I can’t believe we were trapped all that time because some idiots don’t know the difference between an emergency vehicle and a taxi,” complains Virgil, your aide. “And that poor lady we were stuck with, and her overflowing catheter bag! That didn’t end well for any of us... You should allow emergency services to ignore the calls of those who misuse the services!”
+OPTION-1: “Agreed, and we should also punish misuse of emergency services,” suggests Cameron Chew, a police officer who has recently returned from being called out to scare a toddler into eating his greens. “Anyone who wastes our time should do time in prison! Lock them up!”
+OPTION-2: “You can’t discourage people from using services when they might really need them,” asserts fire fighter Heather Jackman, striking a heroic magazine-cover pose. “I know that there are some who misuse the system, but overall, they need to know that we’ll be there for them in times of crisis. In fact, you should boost the budgets of emergency services, and give us workers a pay bonus for each call we respond to. It’s the only way to keep our nation safe!”
+OPTION-3: “Look, there’s a reasonable middle ground here,” offers former model and coastguard officer Casey Parker. “Just run an advertising campaign discouraging unnecessary emergency calls, and warn that you’ll fine callers who waste resources. Like, maybe a poster of some barbed wire with the slogan ‘Don’t call me, babe.’ We’ll cut down on time-wasting and also raise funds that you can use to cut down income tax.”
+

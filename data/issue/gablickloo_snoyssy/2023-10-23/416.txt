@@ -1,0 +1,10 @@
+ISSUE:
+416
+TEXT:
+A recent national survey found that 40% of Sleepers regularly consult fortune tellers.
+OPTIONS:
+OPTION-0: “These ‘fortune tellers’ are nothing more than scam artists!” cries Matty Elgar from his soapbox. “This is clear-cut fraud and should be punished as such. They can’t see into the future! No one can! We need to arrest these crystal-ball reading hacks for the good of Gablickloo Snoyssy!”
+OPTION-1: “Banning these fortune tellers only treats the symptom, not the disease, ” states your Minister of Education, Debra Lopez. “If our people are dumb enough to believe this hokum, then we’ve got a serious education problem. Clearly we need to increase our school budget and start an outreach program to stamp this problem out at the source. It’ll require more taxes, but the people need our help.”
+OPTION-2: “I foresee a great eeeeeeeee-vil if you listen to these advisors,” moans Mystic Meg, a prominent fortune teller clad in bangles. “You are in great danger, Dreamcatcher. GRAVE DANGER! You must ignore these naysayers, for they will certainly lead to your downfall! Obviously the government needs its own oracles to foresee catastrophe and guide us through troubled times.”
+OPTION-3: “Consider the opportunity this presents, Dreamcatcher,” says your chief counselor as he steps from behind the arras. “Almost half of the population believes this hoopla. We must encourage this new faith as much as possible. With a handpicked staff of prophets to forecast what we want and spies monitoring every freethinking opposition group, society will be yours for the taking.”
+

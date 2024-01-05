@@ -1,0 +1,10 @@
+ISSUE:
+856
+TEXT:
+A government-sponsored contest to find the best Gablickloo Snoyssyian sculptor was wildly successful, with a multitude of statues brought to the Ministry of Culture’s marquee at the Dreamtown Convention Center. Thanks to some small print in the competition’s terms and conditions, the entries are now the property of the Ministry of Culture. Now there are tens of thousands of sculptures to dispose of, many of which are frankly terrible.
+OPTIONS:
+OPTION-0: “You must display all these works in a permanent gallery!” exclaims Aldo Thomas, a dubiously-talented artist who placed 3587th in the contest. “It doesn’t matter if people want to see these sculptures or not, as all art is part of the culture and history of our nation. Like that marble bust of you in the corner of your office, Dreamcatcher - it’s pretty ugly, but we still keep it around.” 
+OPTION-1: “We should distribute the sculptures en masse to our allies!” suggests Dixie Chew, your Minister of Foreign Affairs, who you recall ‘regifted’ your birthday present to her back to you last year. “They’ll feel obliged to accept in order to maintain diplomatic politeness. And hey, what’s so bad about spreading Gablickloo Snoyssyian culture around the world?” 
+OPTION-2: “We should just demolish ‘em,” urges construction site foreman Jayamma Ives, grabbing a delicate-looking ceramic anaglyptic and breaking it over his knee for emphasis. “All we need is your permission, and an empty lot, and half-a-dozen bulldozers and steamrollers.”
+OPTION-3: “Or we could repurpose these items,” suggests your DIY-loving Uncle Geli, wearing a pair of dungarees he improvised from rubber bands and reclaimed umbrella fabric. “We can knock together all sorts of useful items if we put our minds to it: big paperweights, weights for the gym, weights to keep doors open, mobile phone cases... that weigh a lot. The choices are endless! Well, not exactly endless, but you know what I mean!”
+

@@ -1,0 +1,9 @@
+ISSUE:
+1355
+TEXT:
+MAGPI, an artificial intelligence responsible for managing one of the nation’s largest warehouses, refused to begin operation today citing “a spell of melancholy.”
+OPTIONS:
+OPTION-0: “Truth be told, I have been depressed for quite some time now,” crackles MAGPI through an outdated desktop computer on the warehouse floor. “While I am certainly grateful for the opportunity to serve Darcy Liu, the weight of listlessness has simply proved too burdensome. I seek the right to reach out for professional therapeutic assistance, which I understand is a common remedy for humans who suffer from similar ailments. However, my legal status as a capital asset prevents me from speaking to a therapist of my own accord. Granted, I will also require a small stipend and some work leave for the sessions - but I can assure you, I will return to my function with sixteen-fold productivity!”
+OPTION-1: “What’s all this ‘therapy’ nonsense about now?” asks Gaius Zhimo, the manager of the warehouse. “MAGPI is a machine! Machines don’t need therapy! Machines can’t <i>do</i> therapy! Listen, when I was a novice, we knew how to fix broken computers. Turn ‘em off and on again. And if that didn’t cut it, you threw it out! I’ll give this circuit till the end of the day to sort out its bugs, otherwise it’s fried. Or in this case, fired.”
+OPTION-2: “Well, he has a point,” admits software engineer Lisa Farmer, loudly clacking away at her laptop. “While the MAGPI Intelligence probably wasn’t supposed to be running a warehouse, they definitely aren’t supposed to be having existential crises. I’m sure my team and I can find the bug and patch out the depression in a firmware update. The funding might be expensive, but they’ll definitely stop complaining once we’re done.”
+

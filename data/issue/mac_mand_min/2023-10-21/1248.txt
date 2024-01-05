@@ -1,0 +1,10 @@
+ISSUE:
+1248
+TEXT:
+Last week, your aides scheduled a meeting between you and a renowned former stateswoman of Mac Mand Min. Unfortunately, due to her long-standing battle with Alzheimer’s disease, the meeting left something to be desired, bringing the once-forgotten issue of dementia treatment in Mac Mand Min back into the spotlight. 
+OPTIONS:
+OPTION-0: Elena Pound, the stateswoman with whom you met, expresses her concerns to a nearby aide, whom she appears to have mistaken as being in charge. “Once upon a time, I would have been running this Republic, but now I’m... I’m... What was I saying? Oh yes Some folk like me might need day centres, and help round the house. I’m fine, but what I wouldn’t mind is more attractive nurses like that cutie over there.” She winks in your direction.
+OPTION-1: As she leaves, the aide she was talking to rolls her eyes. “Surely it can’t fall to Mac Mand Min to give people like Pound handouts. If these old farts haven’t planned for inevitable cognitive decline, that’s their fault. Cut all aged care funding, and if people can’t manage — well then, I guess it’s just too bad.”
+OPTION-2: “Hang on, hang on. Whatever happened to having a caring family?” interjects your aunt, who is herself advancing in years. “When I was young, we used to care for our parents through thick and thin! This country needs more reinforcement of the traditional family values, which means the young loving and caring for their elders. We should make the elderly legal dependants on their children, to make them pay their parents back for raising them.”
+OPTION-3: “Y’know, there’s another solution to this problem,” whispers your ever-present Minister for Creative Solutions, sharpening a straight razor on a whetstone. “These people aren’t contributing to our economy, so why don’t we make a few government cuts, if you know what I mean.” She waves the blade menacingly.
+

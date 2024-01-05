@@ -1,0 +1,10 @@
+ISSUE:
+1038
+TEXT:
+Increasing numbers of families find they have little time for their children, with both partners often working very long hours. A possible solution lies with Bigtopian immigrants who are clamouring to make money in Virs Timge Annche, and who would be happy to work as maids and nannies for well below the typical salary that Virs Timge Anncheans would consider a living wage.
+OPTIONS:
+OPTION-0: “We will shop and serve and clean and cook,” pleads Bigtopian maid Leela, kneeling before you with head bowed. “We earn much more here than at home, even if you pay us half what local workers get. We don’t want any voting rights, we don’t want citizenship. Please, boss, let us work here.”
+OPTION-1: “I have to say, I’m a little uncomfortable with this.” worries Felicity McGuffin, avowed liberal and middle-class working parent, scratching at eczema under her unwashed collar. “We’re talking about underpaid servants, of foreign ethnicity, almost all women. Our children will be told these people are servants to be ordered around. Doesn’t that worry you? Let workers come, by all means, but be sure that they have strong employment and citizenship rights, with a solid minimum wage. To be honest, if you create these conditions, Virs Timge Annchean men and women will want these jobs too!”
+OPTION-2: “So, we need people to do the menial jobs that frankly are beneath us...” muses General Starkey, staring thoughtfully out of the window at the horizon. “Well, why bother with servants? There’s a multitude of nations out there that have barely any military strength with populations ripe for reaping. Let’s go gather some slaves!”
+OPTION-3: “It’s a crying shame that we have to look overseas to find women who remember that their place is in the home,” moans perpetually single 45-year-old Hamlet Bulsara. “The women of our own country have gotten too uppity and independent. Discourage women from working by doubling their income taxes, and don’t even let girls into school. That’ll take us back to the good old days, when a man was king in his own house and a woman knew her place as servant. Then, we won’t need dirty foreigners looking after our kids.”
+

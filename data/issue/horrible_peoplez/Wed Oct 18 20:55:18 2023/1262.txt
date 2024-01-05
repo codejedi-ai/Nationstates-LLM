@@ -1,0 +1,6 @@
+TEXT:Every year, several deaths are reported in the country due to the eating of the highly poisonous, yet savoured, pufferfish. 
+OPTIONS: 
+OPTION-1: “It’s straight up suicide!” proclaims Koa Shaw, while puffing his cheeks out in exasperation. “This deadly dish claimed the life of one of my close friends, and kills diners every month! This culinary death-trap must be banned!”
+OPTION-1: “Eating this fish has been our tradition, passed down by our... grandfathers maybe...” says renowned chef Rebecca Kuraoka, as she puts a pufferfish on your desk to demonstrate how easily prepared it is. “It all depends on how skilled you are. See: poison... poison... poison... tasty fish! All you need to do is to make sure all chefs go on training courses and are licensed to serve this sensory experience.”
+OPTION-2: “What’s all this commotion about? A few deaths caused by a petty fish?” questions restaurateur Nobuyoshi Gorbachev, who has just returned from a culinary trip to Dàguó. “There are so many scrumptious dishes out there, but most AI are just too jittery to give them a go. There’s live octopus, blood clams and ackee: let’s put an AI restaurants on everyone’s ‘must experience before you die’ list!”
+

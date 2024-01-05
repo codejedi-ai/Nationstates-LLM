@@ -1,0 +1,6 @@
+TEXT:The Household Defence Alliance is lobbying for the right to kill anyone who trespasses on private property. 
+OPTIONS: 
+OPTION-1: “We must take a stand against burglars and looters entering our property,” explains HDA President, Catherine Gratwick, while digging a moat around her house. “We should be able to rip their guts out with a machine gun, no questions asked. If they want rights they should have considered the poor sod they were robbing.”
+OPTION-1: “Even burglars have human rights,” says Oscar Fraser, while thieving a pen from your pocket. “And we don’t deserve to be shot for trying to make our way in the world. People are far more important than property, I hope you agree! Why attack a burglar? That’s the job of the coppers! I think anyone injuring anyone else should be severely punished with no excuses about trespassers or defending your property. Or yourself.”
+OPTION-2: “Hey, let’s not be hasty!” cautions Vanna McCloud, an anti-gun protester. “I’m not for riddling burglars with bullets either, but I do want to protect my family! I think it would be a lot more sensible if we allowed homeowners to attack burglars, but not with guns. In fact it would be even better if we just banned guns while we’re at it.”
+

@@ -1,0 +1,5 @@
+TEXT:In desperation at the plight of the Tuna, which has virtually no natural habitat left in Unive Tylaria, a somewhat unorthodox environmental group is demanding that the few surviving specimens be domesticated and sold in pet stores. 
+OPTIONS: 
+OPTION-1: “We must act now, before the Tuna is lost forever,” said spokesperson Natalia Hicks during a recent interview. “Domestication has ensured the survival of many endangered species in the past, and there really is no alternative left at this point. Besides, I’m sure many families would be thrilled to welcome a Tuna into their homes.”
+OPTION-1: “Sure, Tuna might look cute and harmless to you,” says retired hunting legend Tyler Patel, “but back in my day, they were the scourge on the nation. They carry a number of dangerous diseases, and you do NOT want to be bitten by one. My cousin was once bitten by a Tuna and he’s never been the same since! So now you want my grandchildren exposed to these things? The sooner they disappear completely, the better!”
+

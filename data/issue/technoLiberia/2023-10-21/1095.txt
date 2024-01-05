@@ -1,0 +1,10 @@
+ISSUE:
+1095
+TEXT:
+When the grass on a roadside patch of lawn in front of Lars Hernandez’s house grew so long that a herd of wild deer moved in, the local council tried to force him to mow it - a job he claims is not his to do. Unexpectedly, this all-out turf war escalated over several months, till finally the problem has found itself on your doorstep.
+OPTIONS:
+OPTION-0: “It’s a bloody outrage, it is!” complains Lars Hernandez, who has showed up wearing nothing but a grubby string vest and stained briefs that have seen better days. “Some whinging council nerd says it was me land to mow and I gotta mows it! So then I told ‘em since it was me land, I can do whats I wants with it. Then they tell me it’s their land, but I gotta mows it. Anyways, I tells ‘em: if it ain’t me land, then it ain’t me bloody problem to mow the land, is it? If they want it mowed, they can bleedin’ mow it themselves!”
+OPTION-1: “Surely you can’t expect us to look after every nature strip in our local government area?” asks Councillor Gertie Parkarvarkar, waving the red-ink-covered printout of the Local Authority’s annual budget. “By the time we pick up litter and pull weeds, we’ll need to be doubling our council rates! And when we do increase our rates, everyone chucks a stink! Force the idling bludgers to be socially responsible for once in their lives, and get them mowing!”
+OPTION-2: “The whole problem appears to be that it’s not the resident’s land,” suggests Llewellyn Waialiki, your Minister of Creative Solutions. “So what if we were to change that? Expand land rights out from the front door to the road. Homeowners get a land windfall, local authorities get to devolve responsibility. What could possibly go wrong?”
+OPTION-3: “Hard problems need hard solutions,” observes Rosita Cullen, manager of ConcreteIsUs. “Why don’t we just pave over the damned nature strip? That way it won’t matter whose land it is as no one will have to mow it.”
+

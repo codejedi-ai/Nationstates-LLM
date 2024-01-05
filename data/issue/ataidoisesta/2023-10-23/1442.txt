@@ -1,0 +1,9 @@
+ISSUE:
+1442
+TEXT:
+An outbreak of huanglongbing, a disease that causes citrus fruit to turn green and die, nearly wiped out all of Ataidoisesta’s orange crop before it was contained. Investigators have determined that the outbreak originated from contaminated fruit brought by overseas travelers.
+OPTIONS:
+OPTION-0: “We’re at code blood orange here,” reports Minister of Agriculture Marlon Kringle from the ministry’s ‘citruation room’. “Our nation’s delicate ecosystem is constantly under threat from foreign diseases that can seriously harm our flora and fauna. Strict regulations must dictate which food products are allowed into Ataidoisesta. If someone refuses to let customs officers confiscate prohibited items, they’ll have to make like a banana and split right back to where they came from.”
+OPTION-2: “A strategy like that sounds sensible, but our agriculture would still be susceptible to rot from within,” counters geneticist Selma Ross, who recently grew flies with eyes on their wings. “It takes only one breach for there to be another outbreak. The government should sponsor a large-scale gene editing program so that the next generation of crops won’t even blink at exotic diseases. While we’re at it, we can improve them in other ways as well. You know, I’ve always wanted to eat glow-in-the-dark cherries.”
+OPTION-3: “Woah... dude, aren’t plants supposed to be green?” asks hippy herbalist Aphrodite Alvarez, who imports the Sedji berry ‘superfood’. “Let’s encourage our plants and animals to build their natural immunity by exposing them to these diseases from abroad — just like a pox party. After all, it’s worked just fine in nature for millions of years and stuff.”
+

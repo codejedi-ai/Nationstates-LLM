@@ -1,0 +1,6 @@
+TEXT:A little kid has accidentally broken her classmate’s spine imitating her favorite wrestler Bulk Bogan’s “Sheeps Tackle” move. 
+OPTIONS: 
+OPTION-1: “Ban wrestling!” screams Tommo Chau, founder of the group People Opposed to Practically Everything, using his sign to break your office window. “My deadbeat ex took my kids to a wrestling match once, and that was the worst thing that ever happened to them! They began beating up other kids on the playground — my little girl tried to bodyslam a teacher. She now says she wants to be called ‘Saraya’ instead of Paige, which is her real name and far more sensible. Outlaw this ritualised violence! Do it for the children.”
+OPTION-1: “I’m THE BULK!” bellows Bulk Bogan, breaking a pre-weakened two-by-four on his own forehead. “You want to know what THE BULK thinks about all this? Only THE BULK can make these moves, but if you kids wanna learn these moves FOR REAL and FOR SAFE, then en... enr... bring them to the BULK BOGAN Academy for Little Wrestlers!”
+OPTION-2: “A school for wrestling? That’s not what Gablickloo Snoyssy needs,” says Kay Faybe, your Minister of Party Pooping. “All Gablickloo Snoyssy needs is an awareness program teaching people that professional wrestling is in fact fake. Then everyone would just stop complaining.”
+

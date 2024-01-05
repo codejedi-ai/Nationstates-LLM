@@ -1,0 +1,10 @@
+ISSUE:
+1287
+TEXT:
+A growing movement of children have petitioned the government to give them a voice in the nation’s parliament.
+OPTIONS:
+OPTION-0: “The youth of TechnoLiberia feel disenfranchised from the institutions that make the decisions that affect their lives,” begins a young girl, who is immediately interrupted by one of her classmates. “We propose that TechnoLiberia establish a youth parliament, with the power to submit bills for the consideration of the national parliament. This will ensure equal representation as well as a voice for today’s youth.”
+OPTION-1: “Bravo! These students represent the best and the brightest of our nation, and they’re just so cute too!” says Thupten Ponta, your Minister of Education as he wipes a tear from his eye. “However, these are their formative years, and they should be spent honing their intelligent little brains, not making potentially binding decisions for our nation. Instead, why not have schools appoint their own student governments? We’ll give the education budget a little boost to help in their creation.”
+OPTION-2: “Indeed, these fine youngsters are the pride of our nation,” begins Billy Wiener, your Minister of the Interior, as Ponta shoos the student delegates out. “But, not all of our youth are as eloquent and informed as those two delegates. I for one, am particularly wary of these so-called ‘young adults’ who have the power to influence the direction our country goes in at such a wee age! I urge you to raise the voting age by five years.”
+OPTION-3: “None of you really seem to appreciate the beauty of what we just witnessed,” declares Gertie Doe, your Minister of Child Welfare. “The organization, the effort, and the care of those students coming together with a focused and compassionate vision of equality for our nation. It has me thinking... why not permanently appoint some children to your cabinet? Let’s give, say, a third of all positions to under-18s. Who is more sensitive, considerate, and goal-driven than they are? Certainly not our ineffectual, and frankly myopic parliament.”
+

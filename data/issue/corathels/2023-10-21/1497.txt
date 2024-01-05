@@ -1,0 +1,9 @@
+ISSUE:
+1497
+TEXT:
+An intelligence agent has uncovered a document detailing a planned coup of your government. DNA evidence extracted from skin cells on the document has linked the plot to two cabinet ministers — identical twins Jamie and Jessie Pond. Both twins deny any involvement and are blaming the other.
+OPTIONS:
+OPTION-0: “Because we can’t tell which twin was plotting against you, we can’t reasonably prove either of them was involved,” claims Attorney General and killjoy Billy Whiterock. “Better to let a guilty person walk free than have an innocent person be wrongly punished. We have no choice but to hold back until we have more evidence, and allow them to continue their current roles. Besides, I always found it somewhat charming that we have twins fulfilling the roles of Minister for Alternative Solutions and Minister for Creative Solutions.”
+OPTION-1: “Bah, in my experience twins are more likely to commit crimes because they think we can’t charge both of them,” says Chief of Police Jazz Wickremesinghe, who’s a bit of a loose cannon but by gum, gets results every time. “If you free them both, then you’re issuing a carte blanche for these creepy doppelgangers to commit crimes. As long as we’re sure that one twin was responsible, assume both are guilty until one of them cracks and confesses.”
+OPTION-2: “Good news everyone!” announces Professor Darnsworth, a crackpot geneticist who is the spitting image of your Secretary of State. “We’ve recently discovered that all sets of identical twins are comprised of an ‘evil’ twin and a ‘good’ twin. Invariably, one twin will always be predisposed to be evil, grow a goatee and blame their evil deeds on the other twin. Give my team a blank cheque and we’ll be able to develop a <i>soul smear</i> test to determine which person in a pair of twins is evil. Then you can keep the good twin and punish the evil one!”
+

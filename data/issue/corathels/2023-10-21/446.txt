@@ -1,0 +1,10 @@
+ISSUE:
+446
+TEXT:
+A recent survey from the Corathelsian Directorate for Health showed that a growing minority of the nation’s women are having difficulties producing enough breast milk for their infants. Now a leading breastfeeding advocate has suggested a co-operative scheme in which nursing mothers share surplus milk with other mothers who are having difficulties, for a small profit.
+OPTIONS:
+OPTION-0: “It’s simple really,” says Belinda Lawson, while scattering rose petals all over your office. “All kids should have a chance at the sweet nectar of a mother’s breast, and we’ll provide havens where mothers can share and receive in a relaxed environment. There’ll be velvet cushions, scented candles and mood music. And to facilitate the money part I’ve designed a coin-operated nursing bra that the girls can wear. Would you like me to demonstrate?”
+OPTION-1: “This is a noble idea,” says Doctor Jacob Santiago, grey eminence of the national health bureaucracy. “Allowing this dissemination of milk will undoubtedly improve the health of our new baby citizens. However, clearly the government must handle this, as to secure proper hygiene and acceptable safety standards. Mothers can deposit their milk at approved facilities, and those lacking can apply for free rations through the appropriate channels. Let’s not talk of monetary compensation: that is distasteful.”
+OPTION-2: “And why should this only be eligible for mothers?” counters Gabriel Bacon, noted libertarian who has embraced his Oedipus complex. “There is a wider market here, and we should acknowledge that. Who wouldn’t want breast milk with their cereal, or in their coffee? I know I would! No meddling regulations and restrictions, let milk and money flow free!”
+OPTION-3: “Hang on a minute there,” yells Tobias Gaudí, CEO of the infant formula company Got Milk Inc. “I just heard from a peg-legged homeless person that breast milk is a gateway drug to cannibalism, so maybe we’re better off without it? With some government funding, my company can provide enough tasty and nutritious formula for all of Corathels’s infants!”
+

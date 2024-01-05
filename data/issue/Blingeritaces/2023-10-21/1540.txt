@@ -1,0 +1,9 @@
+ISSUE:
+1540
+TEXT:
+Over the weekend, two dozen people were admitted to the hospital after ingesting the new liquid detergent Wonderoso, having mistaken it for a soft drink.
+OPTIONS:
+OPTION-0: “It’s irresponsible to package detergent in the same way as soft drinks,” observes Dr. Macca Cruz, a toxicologist. “It’s not just the liquids either. There’s brightly coloured detergent tablets that kids mistake for sweets, and manufacturers apply scents like cinnamon, mint and vanilla to toxic products. Cleaning products should be hard to open, look unappetising and be clearly noxious in appearance!” He pauses to take a swig from his soft drink, and suddenly stiffens and keels over like a falling log.
+OPTION-1: “Our prime responsibility is to our shareholders, and that means maximising sales with consumer-preferred features and packaging,” explains a corporate marketing spokesperson, who is dressed in a lab coat to give the impression of being a scientist. “It’s not our duty nor the government’s duty to protect people from their own stupidity, like somehow mistaking licorice-flavoured brown oxy-power fizzy Wonderoso for Eckie-Ecola. Our all-purpose cleansers are not intended for ingestion despite — allegedly — tasting twice as good as the leading alternative.”
+OPTION-2: “The problem is not that detergents look like foods, it’s that food looks like detergents,” complains organic farmer Samus Kidman, waving a misshapen turnip at you. “We should ban food colourings and any food additives that are designed to change the appearance of edibles. Once people get used to natural-looking produce, there’ll be no chance of them mistaking a pastel-coloured soap product for food.”
+

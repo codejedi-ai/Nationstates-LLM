@@ -1,0 +1,9 @@
+ISSUE:
+1508
+TEXT:
+The top clubs in the nation’s Labtopball League have expressed interest in leaving the domestic competition to join the closed, elite Isles Of Codist GPTesta Labtopball Super League instead. Labtopball fans are worried that the state of competition in Ter Fand Anis will suffer as a result.
+OPTIONS:
+OPTION-0: “Fans. Before. Funds.” gasps Labtopball fan Henry Hawke, putting his vuvuzela down after blowing it between each word. “Any plucky team should have the chance to compete against the best through gumption and a love of the sport. Our teams shouldn’t be denied this chance just because the filthy rich teams want to run off to the Super League to schmooze with the elites. They should remain where they are. Come on, ref!”
+OPTION-1: “This is the invisible boot of the free market at work!” says May Organa, the owner of Athletico The Cradle Of Marx who’s been too busy to attend her own team’s matches for over two years. “The opportunities are endless. Television rights, tourists flocking to our shiny new stadiums, the exposure of our players across Isles of Codist GPTesta! Besides, what would you rather watch? Athletico beating the Tumbleweed Minnows into a pulp or Athletico squaring off against the likes of Foxchester United in a weekly, televised spectacle? I know which one I’d choose.”
+OPTION-2: “If you ask me, there’s a better way,” claims your groundskeeper, a connoisseur of obscure sports. “I’ve seen gridiron played over in the United Federation where the worst teams get the best rookies from a draft system. Picks, fair and simple, just like how I choose the flowers for your garden each year. Why not enforce that system here? It’d certainly level the playing field and remove all the exclusivity and unlimited money surrounding the established teams.”
+

@@ -1,0 +1,9 @@
+ISSUE:
+1557
+TEXT:
+Performance artist Maureen A Hamsandwich is launching a new exhibition tomorrow, wherein she intends to sit silently in a chair eight hours a day for a whole month. Visitors are invited to freely make eye or even physical contact if they desire. Surprisingly, you have received a personal appointment, scheduled to be the first of many to lock gazes with her.
+OPTIONS:
+OPTION-0: “Static and silent, this is a piece that explores the power of stillness,” enthuses a fidgety cultural aide who looks suspiciously similar to the artist but in a red wig, buzzing around you excitedly. “I heard that in a similar performance elsewhere, some visitors broke down in tears as they confronted their internal monologues. You should plan to do something like that, and show the people that you really get postmodern art.” She giggles, then dashes out of the room.
+OPTION-1: “She’s clearly some sort of masochist, just wanting people to poke and emotionally abuse her,” observes a passing intern, seemingly the last speaker’s blonde twin, firing an office staple gun into the back of her own hand to emphasise her point. “So-called ‘artists’ like this deserve to be mocked. You should go in there, give her a slap, berate her for wasting everyone’s time, then head back to work. Busy busy.” She looks at her watch and walks out, purposefully.
+OPTION-2: “Frankly, the whole thing bores me,” yawns a civil servant, whose grey wig seems to be slipping off as she rushes in, out of breath. “Clearly, you’re being drawn into the performance, used to generate free publicity. The best thing you can do is ignore the whole charade, and go across town to a different exhibition that is opening on the same day. I have a pamphlet here: Treasures of Romanticism, a Retrospective on Landscape Paintings of the Sublime. Actual brushwork, and realistic pictures. That’s proper art, with none of this performance nonsense. I’ll go ahead and grab you a ticket.” She strides off.
+

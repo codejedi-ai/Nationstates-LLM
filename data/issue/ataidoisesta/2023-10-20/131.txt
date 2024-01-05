@@ -1,0 +1,5 @@
+TEXT:A number of well-dressed gentlemen wearing a varied assortment of swords are insisting that they be allowed to settle their private disputes on the field of honourable battle. 
+OPTIONS: 
+OPTION-1: “We must be permitted our inherent right to defend our honour through feats of arms!” exclaims Maeve Wade, a bewigged aristocrat sporting a particularly flamboyant swept-hilt rapier. “The right to duel is one found throughout history for the honourable settling of disputes and I must insist that my right to fight be recognised! The world would be so much better if we were permitted to sort out conflicts of interest through trial by combat.”
+OPTION-1: “Swords? Heavens, what dreadful things. All sharp and pointy - quite dangerous, you know,” says Sanjeev Crapo, an ardent pacifist. “Duelling ought to be banned! The best way to settle these kind of arguments are through judicially-supervised mediation, we all know that. If we go ahead with what these duelling nutters want, then innocent people will die! It will be a sad day when people value money more than justice. Apart from lawyers, obviously.”
+

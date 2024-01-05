@@ -1,0 +1,10 @@
+ISSUE:
+7
+TEXT:
+The increasingly militant Animal Liberation Front struck again last night, freeing dozens of chickens bound for delicious snack packs.
+OPTIONS:
+OPTION-0: “These nuts have got to be stopped,” demands concerned consumer Avery Webster. “They need to face the fact people want snack packs, no matter how many innocent chickens must be sacrificed. Besides, chickens would do the same to us if they had the chance.”
+OPTION-1: “These Liberationists are highlighting an important issue,” pleads Finnick deCastro. “Too often, animals are put through needless cruelty, just to make their flesh taste a little more deliciously succulent. I’m sure we could ban the more horrific abuses without putting too much of a dent in our national obesity figures. Couldn’t we?”
+OPTION-2: “Animals have feelings too!” yells protestor Layla Kwan, before being set upon by hungry passers-by. “Free the animals! Ban meat-eating!”
+OPTION-3: Economist Remus Ruddock has an alternative. “You don’t need to take away the people’s right to choose. You just need to build the costs of animal suffering into the price. A tax on meat-eating, in proportion to the amount of cruelty involved, would do the trick. Plus think of the benefit for the national coffers! Of course, poor people wouldn’t be able to afford meat, but that’s just more incentive for them to get jobs.”
+

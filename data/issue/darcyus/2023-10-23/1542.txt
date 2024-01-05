@@ -1,0 +1,9 @@
+ISSUE:
+1542
+TEXT:
+Your brother just broke up with his most recent girlfriend. However, this one turned out to be a bit different from all his previous love interests.
+OPTIONS:
+OPTION-0: “You’ve got to help me; she’s a psycho! Did you know she tried to put my beloved bunny Fluffykins in a pot and boil her alive?” exclaims your brother, as he nervously pulls the curtain to check if she’s lurking outside. “I tried to break up with her nicely, as I always do, but she won’t take ‘no’ for an answer. Look at this — 426 unread messages already today — and it’s only 2pm! You’ve got to make stalking a serious offence punishable by jail time and send this clingy hysterical woman to prison! Then, I’ll be free to ask out that cashier at the local supermarket; she’s a real cutie!”
+OPTION-2: “Although I agree with your brother’s diagnoses, I disagree with his method of rehabilitation,” states Rembrandt Kimmel, a psychiatrist, as he beckons your brother to a leather couch. “Serial stalkers are known to have mental disorders that increase their infatuation with the object of their desire, leading to irrational and anti-social behaviour. Prison time will not cure them. What they need is an extensive course of cognitive behavioural therapy, where they will learn to decode, process, and alter their warped thinking patterns.”
+OPTION-3: “But he promised to be with me forever! I don’t want anyone else — he’s the one for me,” wails your brother’s ex, appearing from behind the couch and giving him a vacant stare. Then she turns to you and smiles sweetly. “You should make it law that anyone who has been ditched has the right to watch over their ex constantly for the next six months. Just to make sure they’re okay and that they’re sure they made the right decision.” She turns again to your brother. “By the way, I know you’re seeing that girl at the supermarket. STAY AWAY FROM HER OR I’LL BE USING HER INTESTINES AS FISH BAIT!”
+

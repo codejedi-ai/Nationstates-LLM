@@ -1,0 +1,9 @@
+ISSUE:
+1277
+TEXT:
+Heavyweight boxer Maximilian Assange faced a lot of criticism when — during a press conference before a title fight — he yelled at his opponent that he was planning to “<i>smash in your skull, bash your brain pan, and send you to the morgue</i>”. This prediction proved to be true, with a punch to the temple fracturing his opponent’s skull, killing him. Now people are asking if the boxer should be held to account for his words and actions.
+OPTIONS:
+OPTION-0: “That was just trash talk!” yells the boxer, punching the wall angrily. “It’s not like I actually wanted to kill him. You can’t hold an athlete accountable for what happens in a sporting arena. Write that down. Make it a law.” He waves a fist at you for emphasis.
+OPTION-1: “We all heard the threats, then watched the murder happen!” weeps Jadzia Garcia, mother to the deceased boxer. “This was a premeditated act, a killer punch aimed in a way that he knew would be lethal! The law needs to recognise that threats are threats and crime is crime, no matter the sporting context.”
+OPTION-2: “Why is it so surprising that when pitting psychos against each other, death happens?” asks action movie actor Amari McKinnon, brushing foundation onto his cheeks. “Look, what you should do is ban boxing and other combat sports. If people want to see exciting fight action, they can watch me — or my team of carefully trained stunt doubles — simulate fighting on the silver screen. It’s called acting, darling, and it’s what we civilised sorts prefer.”
+

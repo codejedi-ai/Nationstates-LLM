@@ -1,0 +1,9 @@
+ISSUE:
+776
+TEXT:
+Journalistic pieces filled with falsehoods have been popping up all over the internet recently, especially on social media.
+OPTIONS:
+OPTION-0: “Lousy so-called ‘journalism’!” exclaims the highly intelligent but often forgetful Lauren Farnsworth, an aging journalist. “Fake news is a blasted scourge and an insult to real reporters everywhere. Whatever happened to the good old days when the media reported the truth and nothing but the truth? No lies, no political bias, and no freedom to spread incorrect opinions. Of course, it might not reach today’s hip young audience, but we can’t let subjective thoughts ruin the press. Ban these fake news sites and arrest these ridiculous conspiracy theorists!”
+OPTION-1: “I’m from Virs Timge Annche, and that’s why I deserve my free speech!” rages Alexander Jonas of the controversial show <i>My Info Struggle</i>. “People should be able to say whatever they want. The truth is, I’m a hard-hitting, fact-seeking, freedom-lover! The government has no right to declare that my journalism is any less valid than the hacks you see on television. People deserve opinions from people that aren’t a part of the bureaucratic elite, from independent sources that they can trust. You should be cutting taxes for shows like mine, because the government needs critics to stop corruption dead in its tracks!”
+OPTION-2: “No matter what you decide, someone is going to be unhappy,” notes Trevor Oliver of <i>The Weekly Moan</i>, a news satire program. “Allowing fake news spreads ignorance and fear, but clamping down on it harms freedom of speech. You’ll note that before each of my shows, there is a disclaimer stating that this isn’t real news and shouldn’t be taken seriously. Couldn’t you simply force the fake news sites to openly state that they’re fake? Sure, the government would be able to decide which sites should and shouldn’t be coupled with a warning, but the people wouldn’t be easily tricked any more.”
+

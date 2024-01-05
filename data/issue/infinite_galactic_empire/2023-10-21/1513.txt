@@ -1,0 +1,9 @@
+ISSUE:
+1513
+TEXT:
+Calamity in the Dianoga Canal! An exceptionally large container ship called the ‘Never Taken’ has run aground in one of the nation’s most vital shipping passages. Stormy weather, tight schedules and the captain’s overconfidence have been variously suggested as the cause. Regardless, the ship is now wedged at an angle across the canal, blocking the passage of other cargo vessels.
+OPTIONS:
+OPTION-0: “Oh, this isn’t coming out well... the daily cost to the economy is staggering,” grimaces your Minister of Trade and Infrastructure, Lex Atif, as he works it out with a pencil. “We need to gather all the manpower that we can lay our hands on and squirt them into that tight canal. Towboats, excavators, dredgers... if we clamp down hard right now, we’ll get this blockage cleared.”
+OPTION-1: “Uh huh, and what if it all hits the fan again?” says Henny Ma, your Minister of Health, sipping on a tall glass of prune juice. “Prevention is better than cure, and we can prevent little accidents in the future by ensuring regular movements. Clear the path, for sure, but then invest the ten or twenty billion Galactic Credits needed to widen and deepen the canal walls.”
+OPTION-2: “Oh, don’t be such a pain in the ass,” bellows army officer Major Brown, poking his nose in. “Just hit the ship with artillery, and blast it to smithereens. Problem solved.”
+

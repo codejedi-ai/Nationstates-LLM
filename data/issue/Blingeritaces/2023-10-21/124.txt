@@ -1,0 +1,9 @@
+ISSUE:
+124
+TEXT:
+An elite group of highly-qualified, well-respected scientists, lawyers, and doctors are campaigning to outlaw the study of the Arts and Humanities in the Universities of Blingeritaces.
+OPTIONS:
+OPTION-0: “Why should Arts students get to lounge around reading books and watching daytime TV for hours on end, when some of our hard-working youngsters are dedicating themselves to the study of worthwhile and valuable subjects; studies which will benefit the nation as a whole?” asks Thiago Yew, a student engineer. “We should be grooming our young people to help, not sponge off the system. The Arts should be considered a hobby, not a career.”
+OPTION-1: “You can’t mean that,” gasps Prof. Catherine Gratwick, renowned worldwide for her paintings of trains. “Learning should be done out of love, not duty. The study of the Arts has been a noble field for many centuries, and learning it is not as easy as you think. I’d rather die than live in a world where creativity is stifled. We should be encouraging young artists, writers, musicians - if only to strengthen Blingeritaces’s cultural reputation.”
+OPTION-2: “What’s the point in allowing most young people to continue in further education anyway?” enquires Bharatendu English, a factory manager. “Surely most students would be better employed in manual and factory work? You should handpick a select few to study medicine, the law, science, and business of course, and utilise the majority of youth to increase the country’s productivity in industry. Academic freedom just gets in the way of a functioning society, I’ve always said.”
+

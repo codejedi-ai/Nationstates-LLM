@@ -1,0 +1,6 @@
+TEXT:Due to the recent capture of a foreign terrorist in Urustanguittedand, high-level military officials want the government to authorize torture to extract information about other terrorist activities. 
+OPTIONS: 
+OPTION-1: “Torture is the only way that we can get these idiots to tell us anything,” says General Yasmin Xiaoping of Urustanguittedand’s special forces division. “After all, violence is the only shared language we have with these scum.”
+OPTION-1: “Are you kidding?” states political activist Coraline Egan. “Torture never works. If anything, it should be outlawed. What do we want to become, genocidal maniacs?”
+OPTION-2: “There’s nothing wrong with torture, but we can’t make it too obvious,” says Secretary of Defense Iago Longfellow. “How about we simply ask them nicely, and then, if they don’t tell us, we kill them? That’s better just from the intimidation.”
+

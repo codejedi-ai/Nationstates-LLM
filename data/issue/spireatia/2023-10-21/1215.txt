@@ -1,0 +1,9 @@
+ISSUE:
+1215
+TEXT:
+57-year-old Penny Chicago has petitioned the government to legally allow her to change her age to 40.
+OPTIONS:
+OPTION-0: “My body is a temple,” states Chicago, frowning over her current life insurance policy. “I have taken excellent care of my health all my life, and although I am considered 57 by the establishment’s calendar, I feel — and look — no more than 40. Being 57 is the bane of my life; I can’t get a new job as employers think I only have a couple of years left in me, and I never get any replies from my dating profile! People can change their identity in many ways. Why not their age as well?”
+OPTION-1: “Is she for real?” questions Yoshi James, your 45-year-old adviser, who feels and looks 45 years old. “This woman is just an attention-seeker. No one can deny the passage of time, no matter how many vitamin smoothies they drink. While we’re on this subject, you should be spending more government money on a database to record every detail of people’s identities, and make it a matter of serious fraud to mislead anyone as to your true age.”
+OPTION-2: Suddenly, your door bursts open and in runs your six-year-old nephew. “Grrrr, I want to be a dinosaur! Mum says that you can legally make me a dinosaur, and my sister wants to be a unicorn. Please, please, please, please, please!”
+

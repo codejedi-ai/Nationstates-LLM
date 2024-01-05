@@ -1,0 +1,14 @@
+ISSUE:
+1511
+TEXT:
+You have been asked to take a searing political interview for <i>Alright!</i> magazine. After questions about your favourite crisp flavour, your most used emoji and whether you prefer long walks on the beach or brisk walks in the city, you reach the final question: “In three words, how do you think others describe you?”
+OPTIONS:
+OPTION-0: Your devoted secretary grins broadly, exposing his ‘I Heart Justin Trudeau’ novelty braces. Fixing you a warm drink, he whispers, “Drop dead gorgeous.”
+OPTION-1: Your sister, here to deposit pamphlets about her latest good causes, smiles imploringly. Nudging forward a brochure of a tiny child holding out his empty bowl, she sighs, “So very generous.”
+OPTION-2: Minister of Bootstraps Angus Lecter throws your sister’s pamphlets off the table and drops a spending review entitled ‘Cutting Welfare Wastage’ before you, rapping it. After a cough, he booms, “Exceptional financial prudence.”
+OPTION-3: A woman with three surprisingly well-fed cats in a shopping trolley staggers into your room, coughing up hairballs. Floating up to your desk, she picks up the spending review and places it gently beneath the cats. After staring wide-eyed at your unfinished profile, she laughs loudly. “Kind to animals.”
+OPTION-4: Environment Minister Eloise Schmidt removes the spending review from the shopping trolley and places it in the recycling. Dramatically sweeping some crumbs from your desk for composting, she announces, “Clean, green machine.”
+OPTION-5: Your niece — recently kicked out of a closed religious order for being overly zealous — totters over to you, bedecked in so much religious iconography that she can barely move. Lips clamped at the sides, she declares, “Perfectly pious person.”
+OPTION-6: Your actor nephew stylishly slides through the speakers, before gently taking the hand of the lady with the trolley and twirling her. Skipping to your desk, he hops onto it, and singsongs, “Nah, I’m good.”
+OPTION-7: Flinging your nephew from the desk, your brother slams his hands down. Crushing the interview questions beneath his fist, he snarls, “Just three words? That’s not possible. You’re their leader. You need permission? Of course not! You’re too benevolent. They mock it. Punish their impudence. Write fifty pages. Fill the magazine. You deserve it. Send a message: playtime is over.”
+

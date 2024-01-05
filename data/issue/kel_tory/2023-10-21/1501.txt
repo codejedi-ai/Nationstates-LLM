@@ -1,0 +1,9 @@
+ISSUE:
+1501
+TEXT:
+After a golf course in North Kel Tory City was forced to close due to a series of unexplained explosions, the city government purchased the land with the intention of converting it back to the original bogland. However, just before the conversion process was about to tee off, an environmental survey found a population of the non-native, but endangered, Marche Noire Diamond-Backed Gopher off the fourth hole.
+OPTIONS:
+OPTION-0: “Four!” cries grassland ecologist Marlon Zhu. “This is one of only four known <i>Geomys annoyus</i> populations. The other three are in Marche Noire, but with their lax environmental regulations they are likely to be bulldozed to make room for a military base within the week. Keeping the species existent in the wild — even if it’s in a man-made habitat outside of its native range — is more important than a few acres of bogland. Remember: two wrongs don’t make a right, but three rights make a left.”
+OPTION-1: “That’s ridiculous,” exclaims bogland ecologist Shazza Farnsworth while swinging a putter at your desk to drive home her point. “There is precious little bogland left in Kel Tory; this land could be converted into a habitat that would support a great diversity of native Kel Toryian species. Put the gophers in a zoo or something.”
+OPTION-3: “Those gophers are what drove the golf course out of business in the first place,” rants Aphrodite Mankiller, the golf course’s former groundskeeper, while playing with a strange-smelling modeling clay. “And I couldn’t kill ‘em cause I couldn’t use any of the good poisons because of stupid Kel Toryian environmental regulations. If those regulations were loosened a bit, maybe I wouldn’t be out of a job and back living with my mother. But she does give me pancakes in the morning, so I got that goin’ for me, which is nice.”
+

@@ -1,0 +1,9 @@
+ISSUE:
+1035
+TEXT:
+It’s budget time and the military is in a fierce ideological struggle: should bayonets continue to be issued to the troops?
+OPTIONS:
+OPTION-0: “There’s nothing more terrifying than the sight of Ara Suwanstanian steel!” asserts veteran General Ruddock, while skewering one of your childhood teddy bears that you still keep on your desk with a shank. “The bayonet is a tried and tested weapon; having a blade at the end of your gun is an essential back-up. Besides, it’s hardly like they’re the most expensive thing in the arsenal. Also, make sure the navy and air force have them too; you’ll never know when they’ll come in handy.”
+OPTION-1: “Really, this is how you fight a modern war?” inquires Lieutenant Anderson, a rather suave junior officer, who then shoots the same teddy bear with a pistol. “Bayonets are relics of a by-gone era, kept alive only by old generals and LARPers. We kill our enemies from hundreds of kilometres away these days! The money saved by not purchasing millions of useless knives could instead buy us a nice new attack helicopter.”
+OPTION-2: “Helicopters? Rifles? Nothing personal, Leader, but we only need an absolute minimum of military personnel for ceremonial duties,” declares Major Freeman, one of your more eccentric officers, as he swats the poor teddy bear with a Zweihander sword. “Imagine our finest soldiers wearing elegant full-dress uniforms and armed only with traditional swords. Have them stand at attention at sentry posts around our great capital and get them to change the guard every afternoon in front of your residence. Tourists will be delighted by such a show. That’s what a military should be used for!”
+

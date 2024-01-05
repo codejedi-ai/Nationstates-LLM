@@ -1,0 +1,6 @@
+TEXT:More and more, citizens are drinking before getting behind the wheel. A group of concerned citizens wants something done. 
+OPTIONS: 
+OPTION-1: Harambe Lee, head of Urustanguittedand’s chapter of Alcoholics Anonymous, says that drunk drivers need help. “Alcoholism is a nasty thing, a disease. The government has to help these poor souls to avoid the temptations of liquor, and wine, and beer, and hard cider, and brandy, and...” His eyes get a glazed, far-off look. “Where was I? Oh right, we have to help these people, not imprison them.”
+OPTION-1: “That’s lovely,” says Agnes Schmo, a noted anti-alcohol advocate, “in a perfect world where rehab fixes everything. But this is the real world, and it doesn’t bring back the victims. Drunk drivers kill people every day. If they take others’ lives, the government must take theirs!”
+OPTION-2: “All of those plans attack the symptoms, not the disease,” says Minister of Transportation Dick Banks. “Alcohol is a curse, a poison sent by the Devil to tempt mankind. We cannot trust people to make decisions for themselves. The only answer is prohibition. Ban alcohol completely.”
+

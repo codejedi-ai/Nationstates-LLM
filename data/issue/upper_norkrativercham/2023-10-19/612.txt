@@ -1,0 +1,5 @@
+TEXT:Your cousin’s adored pet Emu has died. 
+OPTIONS: 
+OPTION-1: “It would mean the world to me to have my loss properly recognised,” sobs your cousin, dabbing tears away with a gold-embroidered handkerchief. “My poor little baby deserves a state funeral. Imagine... people crying in the streets, a band playing funeral dirges on golden tubas, and my dearest little <i>Ami McFluff</i> immortalised in a memorial forever... you’d do it for your own pets, wouldn’t you?”
+OPTION-2: “No need to bury the wee beastie!” yells eccentric special effects expert Florin Dlamini. “I’ve been playing around a lot with taxidermy and animatronics, and I reckon if we fix up damage to the bodywork, apply some preservatives to stop the rot, install some motors and simple AI subroutines, and the little critter will be good as new! Also, why stop with pets? You miss your grandma, right? Let my company work its magic, and look who’s back!”
+

@@ -1,0 +1,9 @@
+ISSUE:
+1081
+TEXT:
+An undergraduate medical statistician has stumbled across a weird occurrence: three of the five actors involved in a theatrical piece called <i>The Queen in Yellow</i>, as well as over ten percent of the members of the opening night audience, have since received diagnoses of various psychiatric illnesses. The media have picked up on this, labelling it “the play that sends you mad”, and predictably ticket sales are now skyrocketing.
+OPTIONS:
+OPTION-0: “I, uh...” stutters Cassilda, a former actress in the play, dismissed for ‘creative differences’. “I, uh, cth... think you fh... should stop the sh... show. My dreams haven’t been right since I was in the pl... play. The strange m-moon, the sh-shadows lengthen...”
+OPTION-1: “Selective reporting!” shouts mathematics professor Camilla Whateley. “It’s like when they claimed that fighter jet pilots were having more female children, all over again. You need to learn how selection bias and basic statistics work. More to the point, the nation needs to learn how these things work. I’d suggest making stats a compulsory part of a properly funded core school curriculum. 85.7% of the seven statisticians I surveyed agree this is a good idea. The other guy, he’s just an annoying smelly little...”
+OPTION-2: “But...” interjects an excitable stranger with a queer narrow head, a flat nose and bulgy, starry eyes. “But this is the most important theatrical production since <i>Shoggoth on the Roof</i>! Please accept these free tickets from us devoted fans, then personally endorse this wonderful play.”
+

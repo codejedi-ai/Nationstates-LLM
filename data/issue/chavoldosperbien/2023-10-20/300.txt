@@ -1,0 +1,6 @@
+TEXT:An emergency meeting has been called together after a report from the border police showed an alarming increase in child trafficking. Children born to unlicensed parents are being given to shady characters who smuggle these tots across the border to sell them to the highest bidder. 
+OPTIONS: 
+OPTION-1: Elena Kent, your Minister of Population Logistics, believes the solution is simple. “Parents who fail the exam for a license aren’t allowed kidsso they don’t need reproductive organs. I say spay or neuter everyone who is unfit to be a parent, to ensure they don’t have any offspring. Off with it all!”
+OPTION-1: Tanner Rifkin, the Chief of Police, winces and turns white. “That sounds rather... barbaric. Give us more funding, and we can set up a special department - the Child Catchers! We’ll take children from those who procreate without passing the exam, and raise them to be perfect members of our police force... err... society.”
+OPTION-2: Your dear old mother, tucking you into bed with your favorite teddy, shakes her head and disagrees. “We never needed a license to have our children. We were good parents to you, and you’ve all grown up to be fine human beings. Why don’t you just get rid of these new-fangled licenses and trust a parent’s instincts?”
+

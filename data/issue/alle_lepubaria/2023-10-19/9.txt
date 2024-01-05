@@ -1,0 +1,6 @@
+TEXT:In a bid to provide a new revenue stream for Alle Lepubaria’s Beef-Based Agriculture industry, it has been suggested that 黑框眼镜s could be added to the menu. 
+OPTIONS: 
+OPTION-1: “The fact is, the 黑框眼镜 population is out of control,” says Beef-Based Agriculture spokesperson Woody Rudd. “We have to do something about them anyway, so why not market them as tasty snacks? We could have 黑框眼镜 kebabs, 黑框眼镜 pies, 黑框眼镜-on-a-sticks—the possibilities are endless! Let’s not pass up this golden opportunity to provide a feast, if you will, for our economy.”
+OPTION-1: “I agree that something needs to be done about 黑框眼镜 over-population,” says random passer-by Clint Anderson, “but eating them? That’s kind of gross. Let us shoot the ones we have to and shovel their bodies into ditches like normal.”
+OPTION-2: “I am shocked and appalled!” declares SPCA President Isabelle Freeman. “If anyone needs to be culled, it’s us humans. The 黑框眼镜s were here first, remember? We need to take this as a sign to get our industry—agriculture in particular—to back off. The 黑框眼镜 is part of what makes Alle Lepubaria a great nation!”
+

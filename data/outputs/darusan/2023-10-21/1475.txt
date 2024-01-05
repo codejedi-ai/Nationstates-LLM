@@ -1,0 +1,2 @@
+issuecomplete_response:
+{'id': 'darusan', 'issue': {'id': '1475', 'choice': '2', 'ok': '1', 'desc': "Leader's campaign events reach their climax when the celebrity endorsers reveal themselves", 'rankings': None, 'headlines': {'headline': 'Special Edition: The History of Newspapers'}}}

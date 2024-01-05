@@ -1,0 +1,8 @@
+ISSUE:
+145
+TEXT:
+Several animal rights groups have protested the continuing use of fur as a material for clothing.
+OPTIONS:
+OPTION-0: “This is an outrage!” cries Ami Harkness, president of the Be Nice To Animals society. “The manufacture of fur apparel is unethical, cruel, and disgusting! People just don’t seem to realise that millions of animals die each year in fur farms, crammed into tiny cages and suffering the most terrible treatment just so someone can look appealing and rich! This is a sick practice and must be stopped! The same can go for leather shoes and snakeskin belts too.”
+OPTION-1: “You can’t mean that, surely?” snorts Elijah Octavian, adjusting a hat made from real Beaver hide. “It’s the people’s choice what they wear. I don’t think it’s fair that the majority of the public should be deprived of fur clothes because some people are a bit queasy. In fact, if the government would allow us to stock rarer animals, we could produce even finer products. In the end, it’s up to the individual, don’t you think?”
+

@@ -1,0 +1,9 @@
+TEXT:The death of 108 year old Supreme Court Justice Cassidy Ross has created an opening on the bench. Below are the possible nominees. 
+OPTIONS: 
+OPTION-1: Harry al-Zahawi, the Former CEO of Corathels Products, says, “I have long sat by and watched our government viciously attack the big businesses in this country. The government has no right to control businesses and I will adopt that position in all of my judgements.”
+OPTION-2: Reverend Mary Franco is nominee #2. The Reverend says, “I am sick and tired of the liberals in this country ruining our family values. Every day they assault our basic sense of decency. You must vote for me to keep our families safe. Think of the children!”
+OPTION-4: Gay Activist and former Senator Solomon McCartney is nominee #3. “Our people aren’t happy, we need more freedom, we need more civil rights. We must keep the government out of the bedroom. We must respect people’s right to privacy and remember that personal relations are just that, personal.”
+OPTION-5: Environmental Activist Ash Spirit argues, “Our government has been constantly violating Mother Earth and her rights, all our politicians talk about are civil rights, civil rights this, civil rights that, blah blah blah. We aren’t important, what is important is the Earth!”
+OPTION-6: The last nominee is the retired Five Star General Ethel Brewer. “We are ridiculed throughout the international community for our low quality weaponry, our police and military numbers are not sufficient. Our military must be protected from both constitutional and civilian oversight. They should be given money, and a free hand.”
+OPTION-7: Finally, a tomato flies by your head flung by an angry protester. “We want to elect our own judges! This is a democracy! More power to the people! We don’t want a lapdog! Separation of Powers! Get the government out of the judicial system!” He chucks another tomato at you before security escorts him out of your private office.
+

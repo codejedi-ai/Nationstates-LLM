@@ -1,0 +1,9 @@
+ISSUE:
+1204
+TEXT:
+Tanya Frederickson ran away from home when she was 15 to join the Ultra-Violetists, an international, religious, militant organisation that aims to forge a state ruled under Violetist law. Now, four years later, she wants to come back to Ara Suwanstan, claiming to have served in only noncombatant roles. The so-called “Terrorist Princess” is heavy with child and nearly due, and is now living in a refugee camp in Bigtopia.
+OPTIONS:
+OPTION-0: “Oh my silly lost girl, where did she get her ideas? She didn’t kill anyone during her escapades, so surely that should count for something,” pleads the girl’s father, a Violetist cleric. “She wasn’t even an adult at the time, so she should be excused for her actions and be allowed to return home to have her child. Our family will take care of her and the baby, so you’ve got nothing to worry about.”
+OPTION-2: “She made the decision to betray our glorious Corporatocracy in order to join up with those Violetist lunatics!” bellows your Minister for Homeland Security. “No matter the girl’s claims about being a noncombatant, she still served the enemy! But if she wants to come back, then fine! Have her extradited, then throw her in solitary confinement for the rest of her miserable life! The child we’ll take away to raise in a patriotic environment free from sick terrorist ideals!”
+OPTION-3: “Take her out,” whispers your Minister for Alternative Solutions. “And I don’t mean to a nice restaurant. Violetist extremists have caused so many deaths, so why waste this opportunity for justice? I don’t believe she was noncombatant for a second. These Violetist animals wouldn’t show any mercy to us, so we shouldn’t show any to them. She and her larva deserve to die — this is war!”
+

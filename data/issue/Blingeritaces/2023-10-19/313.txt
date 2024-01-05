@@ -1,0 +1,6 @@
+TEXT:A religious scholar was recently arrested over refusing to serve in Blingeritaces’s Armed Services on moral grounds. Small - but very vocal - demonstrations have started over compulsory military service and a citizen’s right to be a conscientious objector. 
+OPTIONS: 
+OPTION-1: “Conscription flies in the face of my religion,” declares Tom McCarthy, Grand Poobah of the Order of Maxx. “It clearly states in our holy book that ‘Thou mayest not blow Thine enemies to tiny bits, in Thy mercy’. The devout of Blingeritaces should have the option to opt out of service. We were put here to bring peace to the world, not destroy it!”
+OPTION-1: “I can’t believe you are still listening to these spineless liberals!” yells Field Marshal Bodhi Sorin, setting up a gibbet with noosed rope. “You let these crazy zealots have their way and we’ll find ourselves open to all sorts of threats. Bigtopia would have a field day. Let’s remind these wackos who’s in charge.”
+OPTION-3: “We hardly need to be so black and white about it,” interrupts Ginny Breitbart, your Churchmaster General. “These people don’t want to kill? It’s against their ‘beliefs’? So we won’t make them. There are plenty of jobs in the military that don’t involve pulling a trigger. If they still object, well, we can always exile them.”
+

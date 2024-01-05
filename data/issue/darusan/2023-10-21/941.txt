@@ -1,0 +1,10 @@
+ISSUE:
+941
+TEXT:
+More and more people have been developing allergies  some severe  to especially potent scents. Allergy specialists and sufferers alike are asking you to stick your nose into this business.
+OPTIONS:
+OPTION-0: “Everyone knows that we cannot bear these malodorous assaults on our senses!” protests nasally-sensitive allergy specialist Rosemary Thyme between sneezes. “I am persistently surrounded by people who drown themselves in <i>Eternity Is a Long Time</i> or <i>Channel Number 5: A Newswoman’s Perfume</i>. Who knows what these allergic reactions are costing the economy due to lost productivity? Ban the sale of these products!”
+OPTION-1: “While Rosie has the right idea, an outright ban is only one part of the equation,” gasps Lavender O’Dor, choking due to your fragrant aroma. “You need enforcement officers to make sure people are in full compliance with any perfume ban, which should also include body lotions, deodorants, the lot! My sanity depends on this!”
+OPTION-2: “You want to tell me what I can and cannot wear when it comes to my personal grooming?” snorts neighbourhood narcissist Imma Mirorslav. “That idea stinks. Darling, listen, I have certain standards to uphold, and my collection of 250 perfumes are a vital part of who I am! If these nosy persons cannot stand being around my exquisite self, perhaps they should all hold their noses instead.”
+OPTION-3: “While I empathise completely with the plight of these people, there surely has to be a sensible solution to this,” coos fragrance magnate Calvin Colon, who nonchalantly slips a few samples of his latest scents into your pocket. “I smell an opportunity here for fairness: just legislate that every workplace should have sections for those who want to adorn their beautiful bodies with my creations, and for those who prefer natural scents.” He wrinkles his nose disdainfully.
+

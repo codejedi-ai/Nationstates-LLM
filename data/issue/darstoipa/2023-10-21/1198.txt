@@ -1,0 +1,9 @@
+ISSUE:
+1198
+TEXT:
+After an investigative journalist broke a story about a widow who had kept her deceased husband’s body in her house for over a year, a debate has arisen on how soon a body should be buried after death.
+OPTIONS:
+OPTION-0:  “This is a public health nightmare,” exclaims Fumiko Bulsara, your Health Minister, while covering her face with a perfumed handkerchief. “A body that isn’t cremated or buried poses serious health risks for the entire neighbourhood. We must require all bodies to be disposed of within a week.  We can’t just keep grandpa in his favorite chair forever, can we?”
+OPTION-1: “Not so fast!” shouts rights advocate Lee Haynes. “People have a right to mourn the loss of a loved one however they like, and it is none of the government’s business to regulate the grieving process. That lady was only keeping her beloved husband’s body in her living room while friends and family paid their respects — hey, he was a popular guy! The right to send off a loved one as per your beliefs should be held sacrosanct.”
+OPTION-2:  “There has to be a solution here and I’m sure we can work it out,” declares George Starr, the owner of the largest beetle farm in Darstoipa, as he places a beetlearium on your desk. “If the government could subsidize my enterprise, then the bereaved can have my beetles strip the flesh off of their loved ones, allowing them to keep the bones for as long as they like. No more health risks, no more nasty smells, no more government interference during this most personal of times.”
+

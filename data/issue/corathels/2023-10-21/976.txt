@@ -1,0 +1,10 @@
+ISSUE:
+976
+TEXT:
+Reports that more and more Corathelsians are seeking exorcisms for being possessed by evil spirits are fuelling rumours of an impending apocalypse.
+OPTIONS:
+OPTION-0: “What absolute hokum!” asserts famous sceptic Jane Duterte, shaking her head in disbelief. “All these people who claim to be possessed are attention-seeking drama-queens. Demonic possession is not real. We need a public information campaign which states that demons are imaginary, the apocalypse isn’t coming and everyone should just calm down.”
+OPTION-1: “DEMON! I’m going to need some help here,” screams exorcist Amos Liu, as he begins sprinkling her with holy water. As his baffled assistants take over pinning her down, he turns to you. “My congregation alone has thousands of citizens and they all claim to be possessed. I can’t administer exorcisms to all these people all by myself. The government needs to set-up a massive recruitment drive for all the remaining non-possessed citizens to become exorcists and fast-track their exorcism training.”
+OPTION-2: “The hour of damnation is at hand!” shouts Monk de Wally de Honk, a doomsday ‘prophet’ who frequently changes his forecast of the date of the apocalypse. “I have studied the words of holy books and the stars, and Corathels doesn’t have much time! I implore you to move those remaining souls who aren’t possessed to safe, remote, and unaffected areas of the nation. The purity and isolation of the land shall keep us safe!”
+OPTION-3: Finally, a man dressed in a dark suit and holding a pile of contracts seems to appear out of nowhere. “I am from the law firm Horace, Edward, Logan and Lee. My client has instructed me to inform you that there is only one way to save the Corathelsian people from this calamity. Tell all of them to sign these contracts, then my client shall transport them all to a place far away from the imminent catastrophe. There’s nothing to be suspicious about, my client is a reasonable fellow.”
+

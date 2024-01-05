@@ -1,0 +1,9 @@
+ISSUE:
+1474
+TEXT:
+A morning meeting with some of your ministers is just starting when your sister bursts into the room and into an angry complaint about how, when her family went out to dinner at a fashionable new Tiquitacan restaurant yesterday evening, her young daughter was brought to tears by finding guinea pig on the menu.
+OPTIONS:
+OPTION-0: “At first she was delighted to see that they had a pen of guinea pigs, which she thought was a petting zoo, until one of the waiters explained that those animals  which his people call <i>cuy</i>  were actually there so that diners could choose which ones they wanted to eat. She was still crying right up until she finally went to sleep that night. It shouldn’t be allowed! Some kinds of animals are food but some kinds are just pets instead, at least in civilized countries like ours, and the law should make it clear which are which.”
+OPTION-1: “But the guinea pig has always been an important meat animal for the Tiquitacans, and it’s really tasty too. I remember that from when I was posted at our embassy there,” remarks Journee Quayle, your Foreign Minister, salivating slightly. “Not only should we continue to allow the use of guinea pigs as meat, but there are so many other foreign delicacies that we should encourage restaurants and shops here to stock as well: Skandilunds reindeer hind cutlets with eyeball sauce, for example, or Tasmanian fermented platypus eggs. Yum!”
+OPTION-2: “All meat is murder!” protests Nick Woolf, your Environment Minister. “It’s a slippery slope: First, people eat the flesh of ‘domestic livestock’, then they eat the flesh of animals traditionally kept just as pets... and then, maybe, they’ll even ‘graduate’ to putting pineapple on pizza! It’s barbaric! This incident is just more proof that we should outlaw meat-eating altogether.”
+

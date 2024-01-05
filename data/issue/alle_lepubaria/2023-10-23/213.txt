@@ -1,0 +1,9 @@
+ISSUE:
+213
+TEXT:
+After several tragic bus accidents across Alle Lepubaria, bus drivers have started a strike until safety standards have been raised.
+OPTIONS:
+OPTION-0: “Every morning I step into that thing I wonder when it’s finally going to fall to bits,” grumbles Rowan Stoker, a bus driver. “The lights don’t work, half of the seats are either vandalised or missing, the top deck smells like something died there, and something HAS died right at the back. We need more money to improve our buses. It’s that simple. If you don’t do it then more people will die.”
+OPTION-3: “That sounds to me,” says one of your financial advisors who just happens to be walking past, “like a stellar reason to do away with the public transport system altogether. The only people who really lose out are the disabled, but there’s no production value to them anyway, so it’s win-win.”
+OPTION-4: “Now now now, there’s no need to be quite so gung-ho,” says Al Burton, a city planner. “The public transport system is vital for cutting down congestion and pollution within urban areas. Less vehicles on the road, less fumes, you with me so far? What we need to do is put a tax on car-use within the cities and promote our mass transit. That way everyone gets what they want, and cleaner air to boot.”
+

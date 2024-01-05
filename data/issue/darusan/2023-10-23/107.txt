@@ -1,0 +1,9 @@
+ISSUE:
+107
+TEXT:
+Scientists at a private medical research laboratory have announced that they have produced a drug which will combat Darusan’s most notorious malady - Spon Plague.
+OPTIONS:
+OPTION-0: “This pill is the only known and unknown cure for the Spon Plague!” proclaims Professor Fumiko Simpson, the inventor of the cure. “But if we are to go ahead with the production of this drug, we must get some government support. We’re set to make a fortune from this drug - the money we earn will help us develop even more cures for other as-yet untreatable diseases. Some people won’t be able to afford it of course, but hard cheese on them: they should have got a paying job while they were still capable.”
+OPTION-1: “That’s a disgraceful way to think!” says equal rights activist Lee Berenstain. “So the people who need the most help shouldn’t get any? I propose that the government takes over the distribution of all drugs so everyone can benefit from them, rich or not! That way the money-hungry corporations won’t profit from the suffering of the masses. Of course there will be the matter of a small tax rise to fund it - but what’s that when lives will be saved?”
+OPTION-2: “I can’t believe what I’m hearing,” deplores well-respected religious leader, Rosalie Grossweiner. “If God didn’t want people to have this disease he wouldn’t have created it in the first place. This is completely against the will of God and if the government allows this drug to go on sale we will all be doomed to an afterlife in a dark and fiery place! Now let’s end this madness and abolish the production of pharmaceuticals and drugs altogether!”
+

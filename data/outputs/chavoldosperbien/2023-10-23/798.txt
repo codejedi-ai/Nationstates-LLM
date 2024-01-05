@@ -1,0 +1,2 @@
+issuecomplete_response:
+{'id': 'chavoldosperbien', 'issue': {'id': '798', 'choice': '1', 'ok': '1', 'desc': "newly synthesized elements' half-lives are a million times shorter than the time it takes to say their names", 'rankings': {'rank': [{'id': '38', 'score': '53.90', 'change': '0.39', 'pchange': '0.728836'}, {'id': '60', 'score': '161.42', 'change': '0.12', 'pchange': '0.074396'}]}, 'headlines': {'headline': ['Our New Edition: Less Politics, More Pictures!', 'Chavoldosperbien More Chill Than Ever Before']}}}

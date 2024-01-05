@@ -1,0 +1,9 @@
+ISSUE:
+813
+TEXT:
+The Supreme Leader of Blackacre, Valeria Drake, threatened to “make it rain fire and fury all over Alle Lepubaria” via her Twitcher account. A horde of security experts have surrounded you to discuss the precautions that must be taken.
+OPTIONS:
+OPTION-0: “We cannot underestimate the danger!” asserts your Minister of Defense, carefully putting her Castles & Cockatrices figurines on your desk with a rather creepy smile. “A threat is a threat, be it declared via a twitch or at a fancy press conference with all the bells and whistles. We must respond accordingly, by preemptively positioning battleships within bombardment range of their major cities. If they don’t back down, we’ll wipe them off the map! That’ll teach them what a rain of fire looks like.” She chuckles as she knocks over a miniature effigy of Supreme Leader Drake with a wyvern.
+OPTION-1: “Aren’t we taking this woman’s Twitcher rants a bit too seriously?” questions your Ambassador to Blackacre, without showing any effort to disguise her boredom. “I mean, this gal basically twitches all the time about xenophobic conspiracy theories or rants about dissidents. You should not reinforce this nonsense by giving her the attention she craves. Ignore her, and hopefully she’ll learn to govern her country like an adult.”
+OPTION-2: “If you let her get away with this insult, our people will start to question your competence as a leader!” clamours Cortana Powers, your Public Relations Adviser, as she scrolls down on her phone to read Drake’s vitriolic twitches. “What we should do is to set up an official Twitcher account for you. This way you can counter Drake’s attacks with her own weapon. An eye for an eye. You can also use this account to polish up your public image, of course. Your ministers could get in on this too.”
+

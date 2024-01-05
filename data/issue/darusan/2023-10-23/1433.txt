@@ -1,0 +1,9 @@
+ISSUE:
+1433
+TEXT:
+Sensing a lucrative business opportunity, several major corporations attempted to capitalize on the nation’s eco-friendly attitude by marketing every single one of their products with dubious claims such as “environmentally safe,” “divinely blessed by Mother Nature herself,” and everything in between. With scores of activists grumbling about the “greenwashing,” the burden falls on you to broker a green peace.
+OPTIONS:
+OPTION-0: “I don’t see the problem here,” says United Tourism CEO Christopher Thomas, teasing you with some 100% recyclable organic Dar Papers. “It’s not as though we’re lying to people: all of our product packaging contains so many pro-environment exhortations that people reading the labels basically have no choice but to embrace the green craze! If that’s not ‘all profits go towards supporting the environment,’ I don’t know what is!”
+OPTION-1: “Not as though you’re lying?” shrieks random activist Indira Chen, smacking what she assures you is not a 100% recyclable organic petition down on your desk. “This is making a mockery out of all our efforts! ‘Green this, green that’ - it has to end! If a company wants to put environmental claims in their advertising, they need to back them up with scientific facts.”
+OPTION-2: “Allow me to, ahem... advertise a solution,” cackles East Lebatuckese diplomat Mercutio Iglesias, spreading some ‘Splendor in Socialism’ propaganda brochures on your desk. “As long as you have greedy profit-oriented capitalists, this hoodwinking is bound to happen. If you just brought all manufacturing and merchandising under state control like we do, all comrades - I mean consumers - could make well-informed decisions about what to buy.”
+

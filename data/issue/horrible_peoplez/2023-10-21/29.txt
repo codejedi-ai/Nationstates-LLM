@@ -1,0 +1,9 @@
+ISSUE:
+29
+TEXT:
+Horrible peoplez’s TV soaps—famous around the region—have come under fire for their lack of ethnic diversity.
+OPTIONS:
+OPTION-0: “Every night my family and I sit down to watch ‘The Brash and the Backstabbing’,” says Fatima Webster. “But where are the Lilliputians like myself? Where are the Bigtopians? The Marche Noirians? People from those cultures can be just as brash and backstabbing, but we never see them on the screen. The government must act to remove this silent apartheid from our TV screens.”
+OPTION-1: “Those Lilliputians don’t know how good they have it,” says Kusang de Vil, spokesperson for the Tasmanians Against Ethnic Stereotyping. “Tasmanians are on television all the time, but always in crude, stereotypical roles. The answer is not to enforce ethnic quotas, but to award government prizes for the positive portrayal of minorities. That’ll work better, and be cheaper, too.”
+OPTION-2: “The government should do what now?” says TV studio executive Renee Kumar. “You’ve got to be kidding. We make soaps here, not documentaries. I should be able to put whichever characters I want into my shows. Quotas! Government prizes! God save me! Hasn’t the government got anything better to do? Why don’t they just back off and let society work out these things on its own?”
+

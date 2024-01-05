@@ -1,0 +1,6 @@
+TEXT:Certain shadowy ministerial figures have proposed government monitoring of individual internet usage. 
+OPTIONS: 
+OPTION-1: “In these days of terror and uncertainty, it’s exactly what we need,” says Whoopi Ives, signing an arrest warrant. “Every pervert, terrorist, bomb-building maniac and anti-government idiot is currently online. I’m not saying that we should block citizens from seeing it, but let’s also watch who’s seeking it out. This will give our law enforcement officers the chance to prevent crimes before they happen. If you’ve done nothing wrong, you’ve got nothing to hide.”
+OPTION-1: “Well, I AM saying we should block out that filth,” says a man in a dark hat, stepping from the shadows. “If people want to use the internet, they can view our government-approved sites. Those are swell.”
+OPTION-2: Privacy activist Clara Pound is outraged, as usual. “Tyranny is the natural result of limiting information! Someone, somewhere, will always find something offensive — mimes for example. Those scare the hell out of me. But should we ban them? No! Free the internet! We have nothing to fear from free information but pop-up advertising!”
+

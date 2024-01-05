@@ -1,0 +1,16 @@
+ANALYSIS:
+The best option is OPTION-0: to establish a Cyber Crimes division dedicated to policing the internet for dark web activities such as online assassination contracts. Given the news of organizations like 'OneClickDeath Industries' using the dark web for contract killings, this would directly address the issue at hand. 
+
+Justification: According to the constitution, specifically Article I, every individual's rights are to be respected, protected, and upheld without discrimination. The right to safety and life is a primary civil right that falls under this and should be protected fervently. The murder of teen pop-sensation ‘Justyn’ represents a gross violation of this right and the continued operation of 'OneClickDeath Industries' on the dark web represents a direct threat to the safety and well-being of our citizens. 
+
+Grounding in the National Principles and Policy Goals, with a high technological base and an investment in information technology, our nation has the resources and capabilities to build a proficient Cyber Crimes division. With vigilant policing of the internet, we can prevent such crimes as the contract killing of 'Justyn.'
+
+Modus Ponens:
+According to the news, a contract killing was organized through a 'dark web' firm.
+Our constitution, with a high technological base and investment in IT, has the capability to police and prevent such activities.
+Therefore, a Cyber Crimes division should be established.
+
+Rejected options:
+Option 2: Suggests arming the citizens with tasers for self-defense, which is unfocused and likely to lead to misuse, conflicts, and potential risk to the safety of non-threatening individuals.
+Option 4: The proposed solution of legalizing and nationalizing 'OneClickDeath Industries' goes directly against the principles in our constitution, rather than protecting lives, this would intensify the dangers citizens face.
+Option 5: Approving a list of targets for assassination goes against the key principles of our constitution, namely the protection of all lives and the upholding of basic civil rights.

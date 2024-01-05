@@ -1,0 +1,9 @@
+ISSUE:
+1007
+TEXT:
+While out jogging in the park, you step straight into a dog’s mess. Passers-by are quick to offer advice.
+OPTIONS:
+OPTION-0: “Disgusting, isn’t it?” asks city worker Michonne Ho. “If you ask me, we need to clamp down on irresponsible dog owners. All public parks should be patrolled by dog wardens, able to dish out heavy fines to those who can’t be bothered picking up what their dumb pets’ behinds leave behind.”
+OPTION-1: “Like that’s going to make any difference,” sneers professional dog-walker Tarquin Payne. “The problem is a lack of places to dispose of the stuff. Nobody wants to carry around a smelly bag of doo-doo until they can find a place to put it. Install more bins, and that should do the trick.”
+OPTION-2: “Ugh, dogs are so disgusting,” complains ailurophile Bartholomew Watson, as the pet cat accompanying him drops a dead bird at his feet and cleans its paws with its tongue. “Felines are much lovelier than dogs; they groom themselves constantly, and do their business in a tray, not outside like those mangy canines do. With that in mind, I propose that we restrict the ownership of dogs with hefty license fees, and use that money on a national campaign promoting the virtues of cats instead.”
+

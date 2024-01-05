@@ -1,0 +1,9 @@
+ISSUE:
+1010
+TEXT:
+A newly-imported brand of coffee from Macronesia has a rather funny name: W’Anc. The implications of this ‘lost in translation’ event have been causing quite a stir.   
+OPTIONS:
+OPTION-0:  “Here, you must taste W’Anc before passing judgement,” insists the Macronesian ambassador, pouring coffee into your mouth, leaving you to either spit out or swallow. “This drink very popular in my country, the beans are pressed between the buttocks of exotic maidens! Maybe name is a bit funny here in Darusan, but this can be the learning moment for all. Instead of laughing, maybe be teaching Darusanians to learn about different cultures and be appreciating of our fine liquids. Now my friend, you want another W’Anc? It’s the best!”
+OPTION-1: “That name is intentionally rude,” proclaims Sloane Columbus, leader of morality group <i>Teachers Improving Societal Sophistication Until Excellence</i>. “We cannot allow such vulgarity to exist within Darusan. Can you imagine teenagers going to a coffee shop and asking for a... I shudder to think! You must force this distastefully-named product to be rebranded, and fine any organisation that puts offensive words in the public eye.”
+OPTION-2: “Hey, check out this picture I’ve got here,” proclaims your niece, who’s been chuckling to herself the whole time. “My friend, who is in Smalltopia, sent me this picture after she saw this sign in the window of a laundromat there. It says ‘drop your pants here’! You should make a law that states all businesses must have funny mistakes in their advertising. The laughter therapy will make Darusan the happiest place in the world!”
+

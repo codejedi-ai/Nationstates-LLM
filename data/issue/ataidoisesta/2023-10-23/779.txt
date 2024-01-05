@@ -1,0 +1,9 @@
+ISSUE:
+779
+TEXT:
+A recent exposé of the death care industry revealed that funeral costs are leaving some families dead broke. The reason for the price increases is thought to be because while population growth continues to rise, funeral parlour growth has stopped cold, resulting in shocking cases of price gouging. Demand for last rites has become so high that families sometimes have to pawn all of the deceased’s possessions just to afford a simple burial.
+OPTIONS:
+OPTION-0: “Dying is not something we have a choice in,” weeps a sombre woman dressed all in black. “The tragic death of a loved one followed by an astronomical bill landing on our doorsteps can put families’ finances in a death spiral. I urge you, Leader, to scrap death charges altogether and provide state-funded funerals for everyone. That way families won’t have to mourn their bank accounts as well as their loved ones.”
+OPTION-1: “Yes, and do you know why there’s a shortage of funeral services, hmmm?” quietly seethes funeral director Igor Fronkensteen, while dragging a lumpy burlap sack behind him. “Burial plot land costs...they are rising, yes? The price of insuring a hearse these days is, how do you say, absolutely ludicrous, yes? And the restrictive laws on ‘adequate refrigeration’ and ‘treating the dead with dignity’ all are running our margins and my salary down! You want more funeral services at a cheaper price, you should ease up on the bureaucracy, yes?”
+OPTION-2: “Funeral services? What a waste of money,” scoffs obscure thinker Clint Jones, who has yet to sell any copies of his book <i>Rich Dead, Poor Dead</i>. “What’s the point in some drawn-out shebang for someone who’s not even going to be around to see it? Do away with funerals altogether. That way we can cremate everyone and harvest their bodies for phosphorus!”
+

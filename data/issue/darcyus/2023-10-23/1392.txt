@@ -1,0 +1,8 @@
+ISSUE:
+1392
+TEXT:
+After your other advisors have gathered their “world’s best apparatchik” mugs and left the room, your Minister of Intelligence, known only as “N”, approaches you to take advantage of the opportunity for a private conversation.
+OPTIONS:
+OPTION-0: “If you have a few spare minutes, Comrade Leader, I’d like to remind you that we have a secret agent in the United Federation. Natasha Milanova is highly skilled in the delicate arts of infiltration, espionage, and making people disappear without a trace. She’s currently operating under the alias of ‘Charlotte Johnson’, a low-level officer at the Libertyville naval base. If you’d like, we can instruct her to focus on intercepting classified information on ship deployments and troop movements, and send us all of the details.”
+OPTION-1: N pauses, picks up a briefcase labeled ‘In Case of Emergency’, and tips it towards an unused mug, dispensing an ample measure of steaming-hot tea. “Ah, that’s much better than that awful People’s EqualiTea they serve in the cafeteria. Anyway, we also have the option of ordering Agent Milanova to directly sabotage the enemy’s naval operations. The downside of this is that she’s much more likely to be caught compared to a simple intelligence-gathering operation — and we have very few agents in the United Federation, so she’s much more valuable than those other incompetent <i>zasrantsi</i> that work for us. Of course, if things get out of hand and the imperialists try to invade San Vitenzo, they’re going to have a much more difficult time if their ships were to suddenly become coral reef habitats at the bottom of their harbor. So, which is it going to be?”
+

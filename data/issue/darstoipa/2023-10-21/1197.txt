@@ -1,0 +1,9 @@
+ISSUE:
+1197
+TEXT:
+To protest your government’s antagonism towards his religious beliefs, High Priest Amos Hugandkiss of the Tranquility of Yellow sat down on a busy street corner this morning, doused himself with fuel, and set himself on fire.
+OPTIONS:
+OPTION-0: “We have witnessed a martyrdom — but <i>you</i> are responsible for his death!” proclaims the jaundiced Brother Morty Poe, whose yellow robes give off the stench of sweat and desperation. “Our temples are being shut down. Our monasteries are looted and ransacked, while our people are beaten for speaking out against it. You must end this persecution of minority religions. We only want to practice our beliefs in peace.”
+OPTION-2: “Dude! That dude just burned himself to death! He didn’t even move a muscle the whole time!” remarks witness Lana Wickremesinghe, mouth still agape in shock. “If that’s the sort of thing that adherents of other religions do, maybe the government is right about not supporting their nonsense beliefs. We obviously need way more mental health support and suicide prevention funding to help these people.”
+OPTION-4: “Let them burn, and we shall clap our hands!” exclaims Ranil Nhu, a fervent believer of Guidance Of AI. “If more Yellowists want to burn themselves, I’ll provide the matches. But it is clear that they will soon turn their rage outward. Suppressing their ‘religion’ was not enough; it has just incensed them! We must get the heathens before they get us. Now is the time to finally round up all of those who don’t believe the true faith and expel them from our great nation. It will be a new golden age for my... I mean, our religion!”
+

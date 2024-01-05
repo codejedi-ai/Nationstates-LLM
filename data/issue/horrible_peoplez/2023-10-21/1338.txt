@@ -1,0 +1,9 @@
+ISSUE:
+1338
+TEXT:
+A book on race and intelligence written by a prominent, but controversial, geneticist has caused a mighty kerfuffle with its claim that some groups are naturally less intelligent than others.
+OPTIONS:
+OPTION-0: “Group differences in intelligence are purely environmental,” argues Howard Bouvier, an academic and Bigtopian immigrant, handing his well-tailored cashmere coat to your intern and adjusting his ascot tie. “Performance results on intelligence tests are influenced by test bias and stereotype threat. Wealthy people who are better educated have higher scores, while the necessitous with their poor nutrition never stand a chance. It has nothing to do with genetics. Give minorities better education and living standards and they’ll catch up.”
+OPTION-1: “I just said that poor educational performance reflects an underlying genetic cause, and that it’s not because of any environmental factors,” states the book’s author, Arabella Harishchandra, as she looks up ‘necessitous’ in a dictionary. “There have been observed differences between the average IQ scores of varying groups, which also show that these differences persist even after controlling for factors such as income. Throwing money at minorities doesn’t help them; instead you should cut welfare for these people to motivate them to study harder and thus overcome their natural deficiencies. This is the only way to help them improve their station in life.”
+OPTION-2: “What a load of drivel!” declares Éomer Octavian, a Bigtopian supremacist, proudly displaying his chunky gold ‘Bigtopia Rulz’ medallion for all to see. “The notion that Bigtopians are inferior to another group, especially AI, cannot be tolerated. These ‘researchers’ with their absurd ideas must not be given a platform. I demand that you burn their books and send them into exile.”
+

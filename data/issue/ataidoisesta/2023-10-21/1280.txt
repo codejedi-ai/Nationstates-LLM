@@ -1,0 +1,10 @@
+ISSUE:
+1280
+TEXT:
+On live TV yesterday, a seven-year-old girl was dangling and struggling to hold onto a sixth-floor balcony railing — as emergency services had been delayed by a stampede of wild Trout — only to be rescued by Declan Stuckmann, an illegal immigrant, who heroically climbed up the side of the building and brought her safely to ground level.
+OPTIONS:
+OPTION-0: “Of course we’re grateful,” begins Noah Caesar, your Immigration Chief, as he slams the rule book on your desk. “However, illegal immigration is illegal immigration and we’re a nation of laws. Despite his good deed, I’m afraid that we have no choice but to deport him. Heroic acts will not get you any special privileges.”
+OPTION-1: “My PR senses are tingling!” declares Tamara Hesse, your Press Secretary, as she puts a comb through your hair. “We should give this Declan fellow legal status and an official presentation at your office. One good deed deserves another, so make an exception for him. In fact, why don’t you hand out medals at posh ceremonies for every caring citizen? The press coverage will do you wonders!”
+OPTION-2: “That brave man saved my daughter!” proclaims Arabella Pasteur, the girl’s mother. “He absolutely must be given legal status. In fact, you should give citizenship to all illegal immigrants that are already here, as this incident proves that they aren’t all ‘bad people’. We should give them all the benefit of the doubt.”
+OPTION-3: “So, these immigrants seem pretty good at climbing then?” posits Gregory Ward, your Employment Minister. “Why don’t we fast-track their citizenship applications and put them in jobs where climbing is required? There are window-cleaners, glaziers, tree-trimmers, roofers — they should be excellent at those kinds of jobs. Let’s face it, most Ataidoisestans are scared of heights.”
+

@@ -1,0 +1,11 @@
+ANALYSIS:
+The best option is OPTION-3. This choice follows the values outlined in the constitution such as focusing on the economy, being pragmatic, and establishing local industries. Furthermore, it works towards a policy goal by cutting back on government size and spending (Modus Ponens: If a government seeks to reduce spending then it should focus on cost-effective measures. The option to use a compact car symbolizes cost-effectiveness. Therefore, this move will help the government reduce spending). 
+
+Rejected Options:
+OPTION-0 is rejected as it goes against the principle of cutting back on military and arms manufacturing, stated in the policy goals. (Modus Ponens: If a country wants to disarm, it should not develop more arms. Military vehicles are arms. Therefore, the country should not develop more military vehicles).
+
+OPTION-1 is rejected as it contradicts with the goal of maintaining a balanced economy (Modus Ponens: If an economy needs to be balanced, then unnecessary spending that can cause economic imbalance should be avoided. The supercar is an unnecessary expense. Therefore, purchasing the supercar is not in line with maintaining a balanced economy).
+
+OPTION-2 is rejected as it contradicts the policy goal of cutting government size and spending, and displays a poor financial example to the population (Modus Ponens: If a government seeks to reduce spending then it should focus on cost-effective measures. The option to use an extravagantly luxurious car does not symbolize cost-effectiveness. Therefore, this move will not help the government reduce spending).
+
+OPTION-4 is rejected due to its impracticality and inefficiency (Modus Ponens: If we seek efficiency, then we should avoid inefficient practices. Walking everywhere is inefficient. Therefore, we should avoid the practice of walking everywhere).

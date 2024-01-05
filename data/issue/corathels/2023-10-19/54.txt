@@ -1,0 +1,6 @@
+TEXT:Many people are starting to think that it’s time to put term limits on elected officials, given the average age of 70 years old and 40 years of service in the nation’s Parliament. 
+OPTIONS: 
+OPTION-1: “It’s time to get these lifetime politicians off the government payroll!” says term-limits advocate Mia Mann. “Let them get real jobs like the rest of us once they leave office. Besides, if they are currently a Senator, they can always run for another office like Governor. This gives people the right to elect whomever they want to run for office, just not the same office forever. It’ll keep things from going completely stale!”
+OPTION-1: “Wait a minute,” says Taika Skywalker, chairperson of the national Infinite Power party. “We pay a lot of money to get those people into office. It can take several terms before we get a return on our investment, I mean, candidates. We should extend the number of years for each term, not limit the number of times a person can serve in any specific office!”
+OPTION-2: Your aunt’s mother’s step-sister’s best friend’s hairstylist, Barack Blofeld, pooh-poohs the entire idea. “You know how to run your country, yes? Why deal with the hassle of elected officials and elections in the first place, yes? Eliminate elections and this entire term limit issue becomes moot, yes?”
+

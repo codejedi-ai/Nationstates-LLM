@@ -1,0 +1,9 @@
+ISSUE:
+1164
+TEXT:
+A vast and seemingly endless new cave system has just been discovered in a remote section of Violetstone National Park! Despite not even having a name yet, petitioners are crowding your office telling you what to do with it.
+OPTIONS:
+OPTION-0: “I’m ready. Let’s do this!” shouts renowned adrenaline junkie, Weevil Knievel, waving a headlamp at you. “I am going to be the first person to ever explore this cave. It would be yet another feather in the cap of my already stellar career! Yes, I know it’s a nine day off-road trek into sensitive ecosystems. Yes, I know it will be fraught with danger and intrigue. That’s the whole point! Give me the green light... and, while you’re at it, a camera crew.”
+OPTION-1: “You can’t be serious?” chastises Orion Ephron, the head of the advocacy group ‘No Safety, Know Pain’. “Who knows what kind of beasts and perils might be lurking in there? Imagine this, Laurel: a good, wholesome Darstoipan family, out having a picnic in the splendor of Violetstone National Park. Suddenly, a rare horn-billed Conputer Mouses skitters by, distracting the parents. Their young son wanders off, gets lost in this deathtrap of a cave and dies! Do you want that hypothetical boy’s blood on your conscience? You must protect your citizens and seal this cave for our safety.”
+OPTION-2: “Whoop-dee-doo, there’s a new cave! Get over it,” snorts Tina MacIntyre, one of Violetstone’s junior rangers. “You know what else is still there? Any number of trees, flowers, bunnies — you name it — all happily undisturbed by human activities. I say we keep it that way with a boost to the park budget. With more money, we can crack down on anyone who tries to illegally enter prohibited areas.”
+

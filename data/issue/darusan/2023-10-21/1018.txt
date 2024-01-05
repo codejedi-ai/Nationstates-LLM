@@ -1,0 +1,9 @@
+ISSUE:
+1018
+TEXT:
+Dr. Henri Jacquil made the headlines yesterday after a mistake made during a routine operation caused the death of your Minister of Foreign Affairs. With the recent advances in the capabilities of artificial intelligence, some in the medical field are wondering if autonomous robot surgeons should be given a whack at surgery.
+OPTIONS:
+OPTION-0: “This seems like a no-brainer to me,” states the editor-in-chief of the Darusanian Medical Journal. “Surgery simply puts too much stress on the surgeons. After all, they’re humans with human fallibility. Besides, the artificial intelligence has not yet failed a test run. The precision in which they operate is absolutely stunning and nothing near what the average Darusanian surgeon can replicate. With healthy investment into this artificial intelligence field, we will turn science fiction into a reality.”
+OPTION-2: “I think you’re overreacting here,” cautions Dr. Jacquil, his hands shaking with what looks suspiciously like narcotics withdrawal. “Everyone makes mistakes once in a while; it’s a fact you don’t need to hide. The reason that the plebs... I mean patients still come to me is for the human touch, and my empathetic bedside manner! Can a machine offer that? You would be destroying the venerated centuries-old doctor-patient relationship, and putting skilled surgeons out of work! Cutting up meatbags is something that should only be done by a fellow human! Keep these thinking machines away from my operating theatre!”
+OPTION-3: “Why stop at just the operating room doors when there’s so much more an AI could do for us?” asks Dr. Stefanie Shiomi, Professor of Experimental Gynaecological Robotics, fetching a fresh box of batteries from the top shelf. “We could make hospitals so much more efficient if we allowed them to adopt more roles: diagnostic chatbots, robot nurses, computerised counsellors, and so on. AIs should outnumber humans by at least twenty to one on the hospital staff.”
+

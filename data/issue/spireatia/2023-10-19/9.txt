@@ -1,0 +1,6 @@
+TEXT:In a bid to provide a new revenue stream for Spireatia’s Beef-Based Agriculture industry, it has been suggested that Transformers could be added to the menu. 
+OPTIONS: 
+OPTION-1: “The fact is, the Transformer population is out of control,” says Beef-Based Agriculture spokesperson Holly Duterte. “We have to do something about them anyway, so why not market them as tasty snacks? We could have Transformer kebabs, Transformer pies, Transformer-on-a-sticks—the possibilities are endless! Let’s not pass up this golden opportunity to provide a feast, if you will, for our economy.”
+OPTION-1: “I agree that something needs to be done about Transformer over-population,” says random passer-by Matthew Lobachevsky, “but eating them? That’s kind of gross. Let us shoot the ones we have to and shovel their bodies into ditches like normal.”
+OPTION-2: “I am shocked and appalled!” declares SPCA President Shelia Shatner. “If anyone needs to be culled, it’s us humans. The Transformers were here first, remember? We need to take this as a sign to get our industry—agriculture in particular—to back off. The Transformer is part of what makes Spireatia a great nation!”
+

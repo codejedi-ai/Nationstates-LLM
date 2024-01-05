@@ -1,0 +1,9 @@
+ISSUE:
+1438
+TEXT:
+In the aftermath of a recent close election, your government has received a litany of complaints concerning the activities of ‘Bikers for Leader’, a grassroots organization whose intense mass demonstrations in front of polling locations and alleged harassment of opposition voters may have swung the election in your favor.
+OPTIONS:
+OPTION-0: “We’re just tryin’ ta’ help, is all,” says head biker Beth Bautista, placing a friendly arm around your shoulder and pinning one of your own party’s buttons to your chest. “Maybe we swung the election a bit. Who knows? We’re just exercisin’ our right ta’ express ourselves politically like any folks can do, and you should be supporting that. Otherwise, I can’t guarantee ma boys an’ I will keep bein’ so friendly in the future.”
+OPTION-1: “Can’t we all just get along?” asks your Director of Managerial Oversight, hanging an empty suit on your coat rack. “How about we set up special cordoned-off areas some distance away from voting locations specifically for these demonstrations? It’ll appease the more enthusiastic political types while alleviating any concerns about them interfering in the electoral process.”
+OPTION-2: “Such a nasty person. So nasty,” rambles TV celebrity Edward Rump, who claims that he is the nation’s elected leader, despite all evidence to the contrary. “People say it’s nasty, very many people, you’re hearing, they’re calling it everywhere. And we need to call — they give us a call, and they vote. And the vote won’t be nasty, because it’s fair, and we’re calling it. Bigtopia’s building a call center. They’re competing with us — the voters call and not the nasty people and it’ll be so fair. So fair.”
+

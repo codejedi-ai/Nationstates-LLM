@@ -1,0 +1,10 @@
+ISSUE:
+1147
+TEXT:
+Though Genghis Gilligan was subsequently exonerated for the many crimes that he was accused of, videos of the “perp walk” he made between the police station and the court are continuing to surface online and in Ara Suwanstanian media.
+OPTIONS:
+OPTION-0: “Perp walks are barbaric and needlessly cruel,” states criminal justice reform and privacy advocate Lucy Mitchell while covering her face with a paper bag. “Not to mention a total violation of privacy. Why should people endure the humiliation of that long walk with cameras flashing in their faces? What if the person is innocent? At least let them have their dignity before you lock them up in a cold, metal box.”
+OPTION-1: “On the contrary, privacy is less important than transparency of procedure,” replies a tough-on-crime police officer who would rather not be named. “The people and the free press have a right to know the creeps who are committing crimes in our great country! In fact, we ought to make perp walks more harrowing! Have the criminals walk a whole mile before they’re escorted away, and let onlookers jeer and throw rotten fruit at them! That’ll surely teach people that crime doesn’t pay!”
+OPTION-2: “Obviously, we need to strike a balance between the two extremes,” suggests armchair legal expert Sam Suparman. “Why not limit perp walks to only the most heinous of crimes and wait until after they’re convicted? That way the media gets to have its circus, but only when we say they can.”
+OPTION-3: “Are we forgetting the fact that an innocent person was humiliated?” reminds Gilligan’s lawyer. “My client’s life was destroyed by police incompetence and cruelty. The government must compensate all falsely accused people for any time spent incarcerated in police cells, and force disciplinary procedures onto the police officers who allowed this charade to take place. Maybe then the police will think harder on respecting the public’s right to dignity!”
+

@@ -1,0 +1,10 @@
+ISSUE:
+1076
+TEXT:
+Despite widespread public awareness about the dangers of smoking, the habit still continues among a sizeable portion of the population. Shady looking teenagers, stressed-out office workers, and chatterbox seniors can still be seen puffing away.
+OPTIONS:
+OPTION-0: “There’s no better way to end this filthy habit once and for all than by hitting smokers where it hurts: no, not their lungs, but their wallets!” reflects Kelly Kokernot, your Minister for Health and Ruining Fun, whilst crunching on a celery stick. “Making ciggies punitively expensive with enforced minimum pricing will make most smokers think twice before they buy their next pack and will have them abandoning this habit before you can say ‘cough’!”
+OPTION-1: “Um, if I may be so bold as to make a suggestion Leader,” enquires Paolo Roosevelt, your office cleaner, as he briefly stops polishing your photo frame. “Cigarettes are one of the few pleasures the poorer members of society have. I beg you to find it within your heart to make smokes as inexpensive as possible.”
+OPTION-2: “By Jove, old sport, I have a smashing plan,” wheezes rotund blue-blood Charles Uppington-Noseworthy. “The government should prohibit cigarettes, while permitting only the more dignified forms of tobacco: cigars, pipes, and snuff - but please - avoid the hideous levies on them. Just think about it: chaps would finally be gentlemen again, and the air would be rich with scents of spice, cedar and carcinogens! As for the ladies - well, they should not partake in smoking; ‘tis not becoming of the fairer sex.”
+OPTION-3: “This has to be the most disgusting habit ever,” opines ex-smoker Venus Will, waving a heavily chewed pencil at you. “Cancer, lung disease, heart disease, financial costs. There is nothing good about smoking, nothing. I’m totally glad I quit and I so don’t follow smokers around to inhale their second-hand fumes. You need to ban all forms of tobacco now! Get that temptation away from me... I mean, for everyone’s health!”
+

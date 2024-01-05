@@ -1,0 +1,9 @@
+ISSUE:
+569
+TEXT:
+FeAR, the Federation of Automobile Racing, has suggested to you that Alle Lepubaria would be a great site for a World Championship F1 Grand Prix circuit. The only problem is that you don’t have a racetrack built.
+OPTIONS:
+OPTION-0: Alexis Lefévre, head of the Grand Prix governing body, suggests the construction of a new top-end racing facility in largely uninhabited swampland in the east of your nation. “It’ll be a boost to tourism and the broader economy in Alle Lepubaria, and it’ll bring this whole dreary swampland area to life!” He stubs out his cigar on a nearby swamp frog, to emphasise his point. “Now, if you have the time, I have some contracts for you to consider with regards to construction, event management, and security firms, all with reputable, established companies and firms that I can vouch for personally...”
+OPTION-4: “Grand Prix racing is completely unrelated to what happens with road cars,” argues Ruri Hoshino, Director of Alle Lepubarian State Automotive Research, “but sports car racing drives forward automotive technology. Say no to the Grand Prix, and instead let the World Sports Prototype Championship hold round-the-clock endurance races at a stadium that we’ll happily foot the bill for. All you need to do is repeal some crazy noise and air pollution laws. Sure, it may not be as glamorous, but it’ll let us show off our wares and will encourage engineering innovation.”
+OPTION-5: “Why are these petrolheads so obsessed with auto racing anyway?” asks migraine-suffering riding enthusiast Belinda Martin, from the back of a stallion that has just evacuated manure onto the pavement. “It’s just noise, smelly fumes and testosterone! Ban motor racing, and invest that pot of money into equestrianism. It’s a genteel racing event for a civilised society.” Her horse glares at you threateningly, as if to support the argument.
+

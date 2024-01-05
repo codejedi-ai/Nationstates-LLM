@@ -1,0 +1,9 @@
+ISSUE:
+751
+TEXT:
+A legal battle is raging between the <i>Ter Fand Anis Department of Life, The Universe, and Environment</i> and <i>Kay Rumble Property Development Group</i>. While surveying for a luxury condominium complex, a rare Labtop subspecies, the two-spotted glow-in-the-dark Labtop, was found traipsing around the proposed build site, potentially holding up construction.
+OPTIONS:
+OPTION-0: “I’m all for protecting truly endangered animals,” grumbles Bawu Howell, the head of the housing firm, “but you can’t walk ten feet in Ter Fand Anis without tripping over a Labtop. So what if these particular ones have a different spot on their underbellies or whatever? I’m trying to build houses for people — your people — and I keep running into red tape because of these damn hippies! We need to loosen these protection laws so I can get on with my job.”
+OPTION-1: “But the three-striped, er... or was it four-toed Labtop, is truly unique!” squeals Fleur Phillips, a noted environmentalist, while nursing a baby Labtop. “This subspecies is rare enough without these greedy opportunists destroying the only habitat they have left. These poor darlings need our protection. If an endangered species, subspecies, or genetically diverse population has been spotted, no form of molestation or habitat destruction should be allowed.”
+OPTION-2: “With all due respect, you’re huffing and puffing over a truly simple matter,” chastens Lance Wessex, an amateur carpenter, while patting your shoulder gently. “We don’t need to drive these creatures nor land-development to extinction. If we require developers create new habitat to replace whatever endangered populations they destroy, then everybody wins, don’t they? I’m sure the two-spotted glow-in-the-dark Labtop will adapt just fine to their new, man-made habitats.”
+
